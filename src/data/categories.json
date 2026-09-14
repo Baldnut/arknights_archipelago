@@ -1,3 +1,1218 @@
 {
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json"
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Lancet-2": {
+        "hidden": true
+    },
+    "Castle-3": {
+        "hidden": true
+    },
+    "THRM-EX": {
+        "hidden": true
+    },
+    "'Justice Knight'": {
+        "hidden": true
+    },
+    "Terra Research Commission": {
+        "hidden": true
+    },
+    "U-Official": {
+        "hidden": true
+    },
+    "Friston-3": {
+        "hidden": true
+    },
+    "PhonoR-0": {
+        "hidden": true
+    },
+    "CONFESS-47": {
+        "hidden": true
+    },
+    "Yato": {
+        "hidden": true
+    },
+    "Noir Corne": {
+        "hidden": true
+    },
+    "Rangers": {
+        "hidden": true
+    },
+    "Durin": {
+        "hidden": true
+    },
+    "12F": {
+        "hidden": true
+    },
+    "Fang": {
+        "hidden": true
+    },
+    "Vanilla": {
+        "hidden": true
+    },
+    "Plume": {
+        "hidden": true
+    },
+    "Melantha": {
+        "hidden": true
+    },
+    "Popukar": {
+        "hidden": true
+    },
+    "Cardigan": {
+        "hidden": true
+    },
+    "Beagle": {
+        "hidden": true
+    },
+    "Spot": {
+        "hidden": true
+    },
+    "Kroos": {
+        "hidden": true
+    },
+    "Adnachiel": {
+        "hidden": true
+    },
+    "Lava": {
+        "hidden": true
+    },
+    "Hibiscus": {
+        "hidden": true
+    },
+    "Ansel": {
+        "hidden": true
+    },
+    "Steward": {
+        "hidden": true
+    },
+    "Orchid": {
+        "hidden": true
+    },
+    "Haze": {
+        "hidden": true
+    },
+    "Gitano": {
+        "hidden": true
+    },
+    "Greyy": {
+        "hidden": true
+    },
+    "Akkord": {
+        "hidden": true
+    },
+    "Click": {
+        "hidden": true
+    },
+    "Indigo": {
+        "hidden": true
+    },
+    "Pudding": {
+        "hidden": true
+    },
+    "Jessica": {
+        "hidden": true
+    },
+    "Meteor": {
+        "hidden": true
+    },
+    "Vermeil": {
+        "hidden": true
+    },
+    "May": {
+        "hidden": true
+    },
+    "Shirayuki": {
+        "hidden": true
+    },
+    "Pinecone": {
+        "hidden": true
+    },
+    "Ambriel": {
+        "hidden": true
+    },
+    "Aciddrop": {
+        "hidden": true
+    },
+    "Totter": {
+        "hidden": true
+    },
+    "Caper": {
+        "hidden": true
+    },
+    "Courier": {
+        "hidden": true
+    },
+    "Scavenger": {
+        "hidden": true
+    },
+    "Vigna": {
+        "hidden": true
+    },
+    "Myrtle": {
+        "hidden": true
+    },
+    "Beanstalk": {
+        "hidden": true
+    },
+    "Snegurochka": {
+        "hidden": true
+    },
+    "Dobermann": {
+        "hidden": true
+    },
+    "Matoimaru": {
+        "hidden": true
+    },
+    "Conviction": {
+        "hidden": true
+    },
+    "Frostleaf": {
+        "hidden": true
+    },
+    "Estelle": {
+        "hidden": true
+    },
+    "Mousse": {
+        "hidden": true
+    },
+    "Cutter": {
+        "hidden": true
+    },
+    "Utage": {
+        "hidden": true
+    },
+    "Arene": {
+        "hidden": true
+    },
+    "Luo Xiaohei": {
+        "hidden": true
+    },
+    "Quartz": {
+        "hidden": true
+    },
+    "Humus": {
+        "hidden": true
+    },
+    "Windscoot": {
+        "hidden": true
+    },
+    "Gravel": {
+        "hidden": true
+    },
+    "Jaye": {
+        "hidden": true
+    },
+    "Rope": {
+        "hidden": true
+    },
+    "Myrrh": {
+        "hidden": true
+    },
+    "Gavial": {
+        "hidden": true
+    },
+    "Sussurro": {
+        "hidden": true
+    },
+    "Perfumer": {
+        "hidden": true
+    },
+    "Purestream": {
+        "hidden": true
+    },
+    "Chestnut": {
+        "hidden": true
+    },
+    "Matterhorn": {
+        "hidden": true
+    },
+    "Cuora": {
+        "hidden": true
+    },
+    "Bubble": {
+        "hidden": true
+    },
+    "Lutonada": {
+        "hidden": true
+    },
+    "Gummy": {
+        "hidden": true
+    },
+    "Dur-nar": {
+        "hidden": true
+    },
+    "Deepcolor": {
+        "hidden": true
+    },
+    "Earthspirit": {
+        "hidden": true
+    },
+    "Podenco": {
+        "hidden": true
+    },
+    "Roberta": {
+        "hidden": true
+    },
+    "Ethan": {
+        "hidden": true
+    },
+    "Shaw": {
+        "hidden": true
+    },
+    "Verdant": {
+        "hidden": true
+    },
+    "Contrail": {
+        "hidden": true
+    },
+    "Ptilopsis": {
+        "hidden": true
+    },
+    "Breeze": {
+        "hidden": true
+    },
+    "Rose Salt": {
+        "hidden": true
+    },
+    "Zima": {
+        "hidden": true
+    },
+    "Texas": {
+        "hidden": true
+    },
+    "Chiave": {
+        "hidden": true
+    },
+    "Poncirus": {
+        "hidden": true
+    },
+    "Kestrel": {
+        "hidden": true
+    },
+    "Matsukiri": {
+        "hidden": true
+    },
+    "Reed": {
+        "hidden": true
+    },
+    "Wild Mane": {
+        "hidden": true
+    },
+    "Fang the Fire-Sharpened": {
+        "hidden": true
+    },
+    "Elysium": {
+        "hidden": true
+    },
+    "Wanqing": {
+        "hidden": true
+    },
+    "Blacknight": {
+        "hidden": true
+    },
+    "Mitm": {
+        "hidden": true
+    },
+    "Cantabile": {
+        "hidden": true
+    },
+    "Puzzle": {
+        "hidden": true
+    },
+    "Chilchuck": {
+        "hidden": true
+    },
+    "Surfer": {
+        "hidden": true
+    },
+    "Swire": {
+        "hidden": true
+    },
+    "Whislash": {
+        "hidden": true
+    },
+    "Bryophyta": {
+        "hidden": true
+    },
+    "Doc": {
+        "hidden": true
+    },
+    "Franka": {
+        "hidden": true
+    },
+    "Flamebringer": {
+        "hidden": true
+    },
+    "Morgan": {
+        "hidden": true
+    },
+    "Laios": {
+        "hidden": true
+    },
+    "Indra": {
+        "hidden": true
+    },
+    "Flint": {
+        "hidden": true
+    },
+    "Dagda": {
+        "hidden": true
+    },
+    "Lappland": {
+        "hidden": true
+    },
+    "Ayerscarpe": {
+        "hidden": true
+    },
+    "Leto": {
+        "hidden": true
+    },
+    "Wind Chimes": {
+        "hidden": true
+    },
+    "Bibeak": {
+        "hidden": true
+    },
+    "Tachanka": {
+        "hidden": true
+    },
+    "Specter": {
+        "hidden": true
+    },
+    "Broca": {
+        "hidden": true
+    },
+    "Fuze": {
+        "hidden": true
+    },
+    "Varkáris": {
+        "hidden": true
+    },
+    "Astesia": {
+        "hidden": true
+    },
+    "Sideroca": {
+        "hidden": true
+    },
+    "Akafuyu": {
+        "hidden": true
+    },
+    "Rathalos S Noir Corne": {
+        "hidden": true
+    },
+    "La Pluma": {
+        "hidden": true
+    },
+    "Highmore": {
+        "hidden": true
+    },
+    "Tequila": {
+        "hidden": true
+    },
+    "Odda": {
+        "hidden": true
+    },
+    "Gracebearer": {
+        "hidden": true
+    },
+    "Nyamu Yūtenji": {
+        "hidden": true
+    },
+    "Hadiya": {
+        "hidden": true
+    },
+    "Blue Poison": {
+        "hidden": true
+    },
+    "Platinum": {
+        "hidden": true
+    },
+    "GreyThroat": {
+        "hidden": true
+    },
+    "April": {
+        "hidden": true
+    },
+    "Kroos the Keen Glint": {
+        "hidden": true
+    },
+    "Insider": {
+        "hidden": true
+    },
+    "Meteorite": {
+        "hidden": true
+    },
+    "Sesa": {
+        "hidden": true
+    },
+    "Jieyun": {
+        "hidden": true
+    },
+    "Executor": {
+        "hidden": true
+    },
+    "Aosta": {
+        "hidden": true
+    },
+    "Kichisei": {
+        "hidden": true
+    },
+    "Skybox": {
+        "hidden": true
+    },
+    "Amiya": {
+        "hidden": true
+    },
+    "Absinthe": {
+        "hidden": true
+    },
+    "Tomimi": {
+        "hidden": true
+    },
+    "Qanipalaat": {
+        "hidden": true
+    },
+    "Skyfire": {
+        "hidden": true
+    },
+    "Leizi": {
+        "hidden": true
+    },
+    "Astgenne": {
+        "hidden": true
+    },
+    "Beeswax": {
+        "hidden": true
+    },
+    "Leonhardt": {
+        "hidden": true
+    },
+    "Santalla": {
+        "hidden": true
+    },
+    "Mint": {
+        "hidden": true
+    },
+    "Iris": {
+        "hidden": true
+    },
+    "Harmonie": {
+        "hidden": true
+    },
+    "Delphine": {
+        "hidden": true
+    },
+    "Lava the Purgatory": {
+        "hidden": true
+    },
+    "Corroserum": {
+        "hidden": true
+    },
+    "Aroma": {
+        "hidden": true
+    },
+    "Kjera": {
+        "hidden": true
+    },
+    "Rockrock": {
+        "hidden": true
+    },
+    "Minimalist": {
+        "hidden": true
+    },
+    "Diamante": {
+        "hidden": true
+    },
+    "Warmy": {
+        "hidden": true
+    },
+    "Miss.Christine": {
+        "hidden": true
+    },
+    "Tecno": {
+        "hidden": true
+    },
+    "Mayer": {
+        "hidden": true
+    },
+    "Scene": {
+        "hidden": true
+    },
+    "Sand Reckoner": {
+        "hidden": true
+    },
+    "Silence": {
+        "hidden": true
+    },
+    "Warfarin": {
+        "hidden": true
+    },
+    "Folinic": {
+        "hidden": true
+    },
+    "Record Keeper": {
+        "hidden": true
+    },
+    "Ceylon": {
+        "hidden": true
+    },
+    "Whisperain": {
+        "hidden": true
+    },
+    "Nowell": {
+        "hidden": true
+    },
+    "Tuye": {
+        "hidden": true
+    },
+    "Mulberry": {
+        "hidden": true
+    },
+    "Honeyberry": {
+        "hidden": true
+    },
+    "Harold": {
+        "hidden": true
+    },
+    "Hibiscus the Purifier": {
+        "hidden": true
+    },
+    "Vendela": {
+        "hidden": true
+    },
+    "Paprika": {
+        "hidden": true
+    },
+    "Papyrus": {
+        "hidden": true
+    },
+    "Taraxacum": {
+        "hidden": true
+    },
+    "Nearl": {
+        "hidden": true
+    },
+    "Hung": {
+        "hidden": true
+    },
+    "Bassline": {
+        "hidden": true
+    },
+    "Senshi": {
+        "hidden": true
+    },
+    "Projekt Red": {
+        "hidden": true
+    },
+    "Waai Fu": {
+        "hidden": true
+    },
+    "Kafka": {
+        "hidden": true
+    },
+    "Mr. Nothing": {
+        "hidden": true
+    },
+    "Figurino": {
+        "hidden": true
+    },
+    "Liskarm": {
+        "hidden": true
+    },
+    "Underflow": {
+        "hidden": true
+    },
+    "Croissant": {
+        "hidden": true
+    },
+    "Bison": {
+        "hidden": true
+    },
+    "Vulcan": {
+        "hidden": true
+    },
+    "Vetochki": {
+        "hidden": true
+    },
+    "Asbestos": {
+        "hidden": true
+    },
+    "Shalem": {
+        "hidden": true
+    },
+    "Czerny": {
+        "hidden": true
+    },
+    "Blitz": {
+        "hidden": true
+    },
+    "Heavyrain": {
+        "hidden": true
+    },
+    "Ashlock": {
+        "hidden": true
+    },
+    "Firewhistle": {
+        "hidden": true
+    },
+    "Aurora": {
+        "hidden": true
+    },
+    "Cement": {
+        "hidden": true
+    },
+    "Philae": {
+        "hidden": true
+    },
+    "Provence": {
+        "hidden": true
+    },
+    "Melanite": {
+        "hidden": true
+    },
+    "Firewatch": {
+        "hidden": true
+    },
+    "Andreana": {
+        "hidden": true
+    },
+    "Lunacub": {
+        "hidden": true
+    },
+    "Toddifons": {
+        "hidden": true
+    },
+    "Erato": {
+        "hidden": true
+    },
+    "Ju": {
+        "hidden": true
+    },
+    "Greyy the Lightningbearer": {
+        "hidden": true
+    },
+    "Coldshot": {
+        "hidden": true
+    },
+    "Snow Hunter": {
+        "hidden": true
+    },
+    "Brigid": {
+        "hidden": true
+    },
+    "Spuria": {
+        "hidden": true
+    },
+    "Cliffheart": {
+        "hidden": true
+    },
+    "Snowsant": {
+        "hidden": true
+    },
+    "Almond": {
+        "hidden": true
+    },
+    "Pramanix": {
+        "hidden": true
+    },
+    "Shamare": {
+        "hidden": true
+    },
+    "Lucilla": {
+        "hidden": true
+    },
+    "Istina": {
+        "hidden": true
+    },
+    "Glaucus": {
+        "hidden": true
+    },
+    "Proviso": {
+        "hidden": true
+    },
+    "Grain Buds": {
+        "hidden": true
+    },
+    "Windflit": {
+        "hidden": true
+    },
+    "Catherine": {
+        "hidden": true
+    },
+    "Alanna": {
+        "hidden": true
+    },
+    "Sora": {
+        "hidden": true
+    },
+    "Heidi": {
+        "hidden": true
+    },
+    "Uika Misumi": {
+        "hidden": true
+    },
+    "Tsukinogi": {
+        "hidden": true
+    },
+    "Nine-Colored Deer": {
+        "hidden": true
+    },
+    "Quercus": {
+        "hidden": true
+    },
+    "Xingzhu": {
+        "hidden": true
+    },
+    "Perfumer the Distilled": {
+        "hidden": true
+    },
+    "Valarqvin": {
+        "hidden": true
+    },
+    "Bobbing": {
+        "hidden": true
+    },
+    "Manticore": {
+        "hidden": true
+    },
+    "Kirara": {
+        "hidden": true
+    },
+    "Umiri Yahata": {
+        "hidden": true
+    },
+    "FEater": {
+        "hidden": true
+    },
+    "Enforcer": {
+        "hidden": true
+    },
+    "Robin": {
+        "hidden": true
+    },
+    "Frost": {
+        "hidden": true
+    },
+    "Wulfenite": {
+        "hidden": true
+    },
+    "Bena": {
+        "hidden": true
+    },
+    "Kazemaru": {
+        "hidden": true
+    },
+    "Iana": {
+        "hidden": true
+    },
+    "Mutsumi Wakaba": {
+        "hidden": true
+    },
+    "Tin Man": {
+        "hidden": true
+    },
+    "Tippi": {
+        "hidden": true
+    },
+    "Exusiai": {
+        "hidden": true
+    },
+    "Archetto": {
+        "hidden": true
+    },
+    "Ash": {
+        "hidden": true
+    },
+    "Schwarz": {
+        "hidden": true
+    },
+    "Pozëmka": {
+        "hidden": true
+    },
+    "Fartooth": {
+        "hidden": true
+    },
+    "Lemuen": {
+        "hidden": true
+    },
+    "W": {
+        "hidden": true
+    },
+    "Fiammetta": {
+        "hidden": true
+    },
+    "Rosa": {
+        "hidden": true
+    },
+    "Typhon": {
+        "hidden": true
+    },
+    "Rosmontis": {
+        "hidden": true
+    },
+    "Wiš'adel": {
+        "hidden": true
+    },
+    "Ch'en the Holungday": {
+        "hidden": true
+    },
+    "Ray": {
+        "hidden": true
+    },
+    "Narantuya": {
+        "hidden": true
+    },
+    "Siege": {
+        "hidden": true
+    },
+    "Bagpipe": {
+        "hidden": true
+    },
+    "Saga": {
+        "hidden": true
+    },
+    "Vulpisfoglia": {
+        "hidden": true
+    },
+    "Saileach": {
+        "hidden": true
+    },
+    "Flametail": {
+        "hidden": true
+    },
+    "Vigil": {
+        "hidden": true
+    },
+    "Muelsyse": {
+        "hidden": true
+    },
+    "SilverAsh the Reignfrost": {
+        "hidden": true
+    },
+    "Ines": {
+        "hidden": true
+    },
+    "Ifrit": {
+        "hidden": true
+    },
+    "Mostima": {
+        "hidden": true
+    },
+    "Eyjafjalla": {
+        "hidden": true
+    },
+    "Ceobe": {
+        "hidden": true
+    },
+    "Ho'olheyak": {
+        "hidden": true
+    },
+    "Logos": {
+        "hidden": true
+    },
+    "Dusk": {
+        "hidden": true
+    },
+    "Marcille": {
+        "hidden": true
+    },
+    "Passenger": {
+        "hidden": true
+    },
+    "Carnelian": {
+        "hidden": true
+    },
+    "Lin": {
+        "hidden": true
+    },
+    "Pramanix the Prerita": {
+        "hidden": true
+    },
+    "Goldenglow": {
+        "hidden": true
+    },
+    "Lappland the Decadenza": {
+        "hidden": true
+    },
+    "Ebenholz": {
+        "hidden": true
+    },
+    "Nymph": {
+        "hidden": true
+    },
+    "Blaze the Igniting Spark": {
+        "hidden": true
+    },
+    "Mantra": {
+        "hidden": true
+    },
+    "Necrass": {
+        "hidden": true
+    },
+    "Gnosis": {
+        "hidden": true
+    },
+    "Angelina": {
+        "hidden": true
+    },
+    "Suzuran": {
+        "hidden": true
+    },
+    "Astgenne the Lightchaser": {
+        "hidden": true
+    },
+    "Magallan": {
+        "hidden": true
+    },
+    "Raidian": {
+        "hidden": true
+    },
+    "Skadi the Corrupting Heart": {
+        "hidden": true
+    },
+    "Civilight Eterna": {
+        "hidden": true
+    },
+    "Silence the Paradigmatic": {
+        "hidden": true
+    },
+    "Haruka": {
+        "hidden": true
+    },
+    "Ling": {
+        "hidden": true
+    },
+    "Stainless": {
+        "hidden": true
+    },
+    "Nasti": {
+        "hidden": true
+    },
+    "Virtuosa": {
+        "hidden": true
+    },
+    "Tragodia": {
+        "hidden": true
+    },
+    "Phantom": {
+        "hidden": true
+    },
+    "Texas the Omertosa": {
+        "hidden": true
+    },
+    "Kirin R Yato": {
+        "hidden": true
+    },
+    "Crownslayer": {
+        "hidden": true
+    },
+    "Lee": {
+        "hidden": true
+    },
+    "Swire the Elegant Wit": {
+        "hidden": true
+    },
+    "Weedy": {
+        "hidden": true
+    },
+    "Aak": {
+        "hidden": true
+    },
+    "Exusiai the New Covenant": {
+        "hidden": true
+    },
+    "Gladiia": {
+        "hidden": true
+    },
+    "Mizuki": {
+        "hidden": true
+    },
+    "Ascalon": {
+        "hidden": true
+    },
+    "Specter the Unchained": {
+        "hidden": true
+    },
+    "Dorothy": {
+        "hidden": true
+    },
+    "Ela": {
+        "hidden": true
+    },
+    "Wang": {
+        "hidden": true
+    },
+    "Thorns the Lodestar": {
+        "hidden": true
+    },
+    "Shining": {
+        "hidden": true
+    },
+    "Nightingale": {
+        "hidden": true
+    },
+    "Kal'tsit": {
+        "hidden": true
+    },
+    "Lumen": {
+        "hidden": true
+    },
+    "Eyjafjalla the Hvít Aska": {
+        "hidden": true
+    },
+    "Reed the Flame Shadow": {
+        "hidden": true
+    },
+    "Titi": {
+        "hidden": true
+    },
+    "Mon3tr": {
+        "hidden": true
+    },
+    "Hoshiguma": {
+        "hidden": true
+    },
+    "Saria": {
+        "hidden": true
+    },
+    "Blemishine": {
+        "hidden": true
+    },
+    "Shu": {
+        "hidden": true
+    },
+    "Nian": {
+        "hidden": true
+    },
+    "Mudrock": {
+        "hidden": true
+    },
+    "Penance": {
+        "hidden": true
+    },
+    "Eunectes": {
+        "hidden": true
+    },
+    "Horn": {
+        "hidden": true
+    },
+    "Jessica the Liberated": {
+        "hidden": true
+    },
+    "Sankta Miksaparato": {
+        "hidden": true
+    },
+    "Yu": {
+        "hidden": true
+    },
+    "Hoshiguma the Breacher": {
+        "hidden": true
+    },
+    "Mountain": {
+        "hidden": true
+    },
+    "Chongyue": {
+        "hidden": true
+    },
+    "SilverAsh": {
+        "hidden": true
+    },
+    "Thorns": {
+        "hidden": true
+    },
+    "Qiubai": {
+        "hidden": true
+    },
+    "Sakiko Togawa": {
+        "hidden": true
+    },
+    "Hoederer": {
+        "hidden": true
+    },
+    "Ulpianus": {
+        "hidden": true
+    },
+    "Pepe": {
+        "hidden": true
+    },
+    "Ch'en": {
+        "hidden": true
+    },
+    "Irene": {
+        "hidden": true
+    },
+    "Degenbrecher": {
+        "hidden": true
+    },
+    "Blaze": {
+        "hidden": true
+    },
+    "Gavial the Invincible": {
+        "hidden": true
+    },
+    "Surtr": {
+        "hidden": true
+    },
+    "Viviana": {
+        "hidden": true
+    },
+    "Vina Victoria": {
+        "hidden": true
+    },
+    "Ch'en the Dawnstreak": {
+        "hidden": true
+    },
+    "Hellagur": {
+        "hidden": true
+    },
+    "Zuo Le": {
+        "hidden": true
+    },
+    "Pallas": {
+        "hidden": true
+    },
+    "Nearl the Radiant Knight": {
+        "hidden": true
+    },
+    "Lessing": {
+        "hidden": true
+    },
+    "Executor the Ex Foedere": {
+        "hidden": true
+    },
+    "Entelechia": {
+        "hidden": true
+    },
+    "Młynar": {
+        "hidden": true
+    },
+    "Leizi the Thunderbringer": {
+        "hidden": true
+    },
+    "Cairn": {
+        "hidden": true
+    },
+    "Savage": {
+        "hidden": true
+    },
+    "Catapult": {
+        "hidden": true
+    },
+    "Midnight": {
+        "hidden": true
+    },
+    "Beehunter": {
+        "hidden": true
+    },
+    "Jackie": {
+        "hidden": true
+    },
+    "Nightmare": {
+        "hidden": true
+    },
+    "Grani": {
+        "hidden": true
+    },
+    "Skadi": {
+        "hidden": true
+    }
 }
