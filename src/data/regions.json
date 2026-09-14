@@ -1,18 +1,11 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
-        "starting": true
-    },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
+    "Episode 0 Part 0": {
+        "connects_to": ["Episode 0 Part 1"],
+        "starting": true,
         "exit_requires": {
-            "Third Region": "|@Characters:5|"
+            "Episode 0 Part 1": "|Episode 0 Part 1|"
         }
     },
-    "Third Region": {
-        "connects_to": []
-    }
+    "Episode 0 Part 1": {}
 }
