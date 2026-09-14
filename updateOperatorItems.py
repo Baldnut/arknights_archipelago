@@ -29,7 +29,7 @@ for id in chars.keys():
         continue
 
     char = {}
-    char["name"] = "Unlock " + chars[id]["name"]
+    char["name"] = chars[id]["name"]
     char["category"] = ["Operators",
                         chars[id]["name"],
                         f"{chars[id]["rarity"][5]} Star",
