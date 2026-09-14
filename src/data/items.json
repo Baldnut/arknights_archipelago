@@ -8,13 +8,25 @@
         },
         {
             "name": "Unlock Lancet-2",
-            "category": ["Operators", "Lancet-2", "1 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lancet-2",
+                "1 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Castle-3",
-            "category": ["Operators", "Castle-3", "1 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Castle-3",
+                "1 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock THRM-EX",
@@ -25,7 +37,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock 'Justice Knight'",
@@ -36,7 +48,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Terra Research Commission",
@@ -47,7 +59,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock U-Official",
@@ -58,7 +70,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Friston-3",
@@ -69,7 +81,7 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock PhonoR-0",
@@ -80,7 +92,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock CONFESS-47",
@@ -91,12 +103,18 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Yato",
-            "category": ["Operators", "Yato", "2 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Yato",
+                "2 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Noir Corne",
@@ -107,47 +125,95 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Rangers",
-            "category": ["Operators", "Rangers", "2 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Rangers",
+                "2 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Durin",
-            "category": ["Operators", "Durin", "2 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Durin",
+                "2 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock 12F",
-            "category": ["Operators", "12F", "2 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "12F",
+                "2 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Fang",
-            "category": ["Operators", "Fang", "3 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Fang",
+                "3 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Vanilla",
-            "category": ["Operators", "Vanilla", "3 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Vanilla",
+                "3 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Plume",
-            "category": ["Operators", "Plume", "3 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Plume",
+                "3 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Melantha",
-            "category": ["Operators", "Melantha", "3 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Melantha",
+                "3 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Popukar",
-            "category": ["Operators", "Popukar", "3 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Popukar",
+                "3 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Cardigan",
@@ -158,22 +224,40 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Beagle",
-            "category": ["Operators", "Beagle", "3 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Beagle",
+                "3 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Spot",
-            "category": ["Operators", "Spot", "3 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Spot",
+                "3 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Kroos",
-            "category": ["Operators", "Kroos", "3 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Kroos",
+                "3 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Adnachiel",
@@ -184,27 +268,51 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Lava",
-            "category": ["Operators", "Lava", "3 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lava",
+                "3 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Hibiscus",
-            "category": ["Operators", "Hibiscus", "3 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Hibiscus",
+                "3 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ansel",
-            "category": ["Operators", "Ansel", "3 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ansel",
+                "3 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Steward",
-            "category": ["Operators", "Steward", "3 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Steward",
+                "3 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Orchid",
@@ -215,62 +323,128 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Haze",
-            "category": ["Operators", "Haze", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Haze",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Gitano",
-            "category": ["Operators", "Gitano", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Gitano",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Greyy",
-            "category": ["Operators", "Greyy", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Greyy",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Akkord",
-            "category": ["Operators", "Akkord", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Akkord",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Click",
-            "category": ["Operators", "Click", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Click",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Indigo",
-            "category": ["Operators", "Indigo", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Indigo",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Pudding",
-            "category": ["Operators", "Pudding", "4 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Pudding",
+                "4 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Jessica",
-            "category": ["Operators", "Jessica", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Jessica",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Meteor",
-            "category": ["Operators", "Meteor", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Meteor",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Vermeil",
-            "category": ["Operators", "Vermeil", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Vermeil",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock May",
-            "category": ["Operators", "May", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "May",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Shirayuki",
@@ -281,37 +455,73 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Pinecone",
-            "category": ["Operators", "Pinecone", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Pinecone",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ambriel",
-            "category": ["Operators", "Ambriel", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ambriel",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Aciddrop",
-            "category": ["Operators", "Aciddrop", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Aciddrop",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Totter",
-            "category": ["Operators", "Totter", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Totter",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Caper",
-            "category": ["Operators", "Caper", "4 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Caper",
+                "4 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Courier",
-            "category": ["Operators", "Courier", "4 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Courier",
+                "4 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Scavenger",
@@ -322,17 +532,29 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Vigna",
-            "category": ["Operators", "Vigna", "4 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Vigna",
+                "4 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Myrtle",
-            "category": ["Operators", "Myrtle", "4 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Myrtle",
+                "4 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Beanstalk",
@@ -343,7 +565,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Snegurochka",
@@ -354,52 +576,106 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Dobermann",
-            "category": ["Operators", "Dobermann", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Dobermann",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Matoimaru",
-            "category": ["Operators", "Matoimaru", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Matoimaru",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Conviction",
-            "category": ["Operators", "Conviction", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Conviction",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Frostleaf",
-            "category": ["Operators", "Frostleaf", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Frostleaf",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Estelle",
-            "category": ["Operators", "Estelle", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Estelle",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mousse",
-            "category": ["Operators", "Mousse", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mousse",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Cutter",
-            "category": ["Operators", "Cutter", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Cutter",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Utage",
-            "category": ["Operators", "Utage", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Utage",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Arene",
-            "category": ["Operators", "Arene", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Arene",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Luo Xiaohei",
@@ -410,22 +686,40 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Quartz",
-            "category": ["Operators", "Quartz", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Quartz",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Humus",
-            "category": ["Operators", "Humus", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Humus",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Windscoot",
-            "category": ["Operators", "Windscoot", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Windscoot",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Gravel",
@@ -436,37 +730,73 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Jaye",
-            "category": ["Operators", "Jaye", "4 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Jaye",
+                "4 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Rope",
-            "category": ["Operators", "Rope", "4 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Rope",
+                "4 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Myrrh",
-            "category": ["Operators", "Myrrh", "4 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Myrrh",
+                "4 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Gavial",
-            "category": ["Operators", "Gavial", "4 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Gavial",
+                "4 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Sussurro",
-            "category": ["Operators", "Sussurro", "4 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Sussurro",
+                "4 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Perfumer",
-            "category": ["Operators", "Perfumer", "4 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Perfumer",
+                "4 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Purestream",
@@ -477,12 +807,18 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Chestnut",
-            "category": ["Operators", "Chestnut", "4 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Chestnut",
+                "4 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Matterhorn",
@@ -493,17 +829,29 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Cuora",
-            "category": ["Operators", "Cuora", "4 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Cuora",
+                "4 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Bubble",
-            "category": ["Operators", "Bubble", "4 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Bubble",
+                "4 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Lutonada",
@@ -514,17 +862,29 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Gummy",
-            "category": ["Operators", "Gummy", "4 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Gummy",
+                "4 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Dur-nar",
-            "category": ["Operators", "Dur-nar", "4 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Dur-nar",
+                "4 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Deepcolor",
@@ -535,7 +895,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Earthspirit",
@@ -546,7 +906,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Podenco",
@@ -557,7 +917,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Roberta",
@@ -568,17 +928,29 @@
                 "Supporter",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ethan",
-            "category": ["Operators", "Ethan", "4 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ethan",
+                "4 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Shaw",
-            "category": ["Operators", "Shaw", "4 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Shaw",
+                "4 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Verdant",
@@ -589,7 +961,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Contrail",
@@ -600,37 +972,73 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ptilopsis",
-            "category": ["Operators", "Ptilopsis", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ptilopsis",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Breeze",
-            "category": ["Operators", "Breeze", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Breeze",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Rose Salt",
-            "category": ["Operators", "Rose Salt", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Rose Salt",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Zima",
-            "category": ["Operators", "Zima", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Zima",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Texas",
-            "category": ["Operators", "Texas", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Texas",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Chiave",
-            "category": ["Operators", "Chiave", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Chiave",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Poncirus",
@@ -641,12 +1049,18 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Kestrel",
-            "category": ["Operators", "Kestrel", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Kestrel",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Matsukiri",
@@ -657,12 +1071,18 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Reed",
-            "category": ["Operators", "Reed", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Reed",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Wild Mane",
@@ -673,7 +1093,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Fang the Fire-Sharpened",
@@ -684,17 +1104,29 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Elysium",
-            "category": ["Operators", "Elysium", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Elysium",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Wanqing",
-            "category": ["Operators", "Wanqing", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Wanqing",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Blacknight",
@@ -705,12 +1137,18 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Mitm",
-            "category": ["Operators", "Mitm", "5 Star", "Vanguard", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mitm",
+                "5 Star",
+                "Vanguard",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Cantabile",
@@ -721,12 +1159,18 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Puzzle",
-            "category": ["Operators", "Puzzle", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Puzzle",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Chilchuck",
@@ -737,37 +1181,73 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Surfer",
-            "category": ["Operators", "Surfer", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Surfer",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Swire",
-            "category": ["Operators", "Swire", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Swire",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Whislash",
-            "category": ["Operators", "Whislash", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Whislash",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Bryophyta",
-            "category": ["Operators", "Bryophyta", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Bryophyta",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Doc",
-            "category": ["Operators", "Doc", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Doc",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Franka",
-            "category": ["Operators", "Franka", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Franka",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Flamebringer",
@@ -778,47 +1258,95 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Morgan",
-            "category": ["Operators", "Morgan", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Morgan",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Laios",
-            "category": ["Operators", "Laios", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Laios",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Indra",
-            "category": ["Operators", "Indra", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Indra",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Flint",
-            "category": ["Operators", "Flint", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Flint",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Dagda",
-            "category": ["Operators", "Dagda", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Dagda",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Lappland",
-            "category": ["Operators", "Lappland", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lappland",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ayerscarpe",
-            "category": ["Operators", "Ayerscarpe", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ayerscarpe",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Leto",
-            "category": ["Operators", "Leto", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Leto",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Wind Chimes",
@@ -829,52 +1357,106 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Bibeak",
-            "category": ["Operators", "Bibeak", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Bibeak",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Tachanka",
-            "category": ["Operators", "Tachanka", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Tachanka",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Specter",
-            "category": ["Operators", "Specter", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Specter",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Broca",
-            "category": ["Operators", "Broca", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Broca",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Fuze",
-            "category": ["Operators", "Fuze", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Fuze",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Varkáris",
-            "category": ["Operators", "Varkáris", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Varkáris",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Astesia",
-            "category": ["Operators", "Astesia", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Astesia",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Sideroca",
-            "category": ["Operators", "Sideroca", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Sideroca",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Akafuyu",
-            "category": ["Operators", "Akafuyu", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Akafuyu",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Rathalos S Noir Corne",
@@ -885,27 +1467,51 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock La Pluma",
-            "category": ["Operators", "La Pluma", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "La Pluma",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Highmore",
-            "category": ["Operators", "Highmore", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Highmore",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Tequila",
-            "category": ["Operators", "Tequila", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Tequila",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Odda",
-            "category": ["Operators", "Odda", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Odda",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Gracebearer",
@@ -916,7 +1522,7 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Nyamu Yūtenji",
@@ -927,12 +1533,18 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Hadiya",
-            "category": ["Operators", "Hadiya", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Hadiya",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Blue Poison",
@@ -943,12 +1555,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Platinum",
-            "category": ["Operators", "Platinum", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Platinum",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock GreyThroat",
@@ -959,12 +1577,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock April",
-            "category": ["Operators", "April", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "April",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Kroos the Keen Glint",
@@ -975,12 +1599,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Insider",
-            "category": ["Operators", "Insider", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Insider",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Meteorite",
@@ -991,52 +1621,106 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Sesa",
-            "category": ["Operators", "Sesa", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Sesa",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Jieyun",
-            "category": ["Operators", "Jieyun", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Jieyun",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Executor",
-            "category": ["Operators", "Executor", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Executor",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Aosta",
-            "category": ["Operators", "Aosta", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Aosta",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Kichisei",
-            "category": ["Operators", "Kichisei", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Kichisei",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Skybox",
-            "category": ["Operators", "Skybox", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Skybox",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Amiya",
-            "category": ["Operators", "Amiya", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Amiya",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Absinthe",
-            "category": ["Operators", "Absinthe", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Absinthe",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Tomimi",
-            "category": ["Operators", "Tomimi", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Tomimi",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Qanipalaat",
@@ -1047,27 +1731,51 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Skyfire",
-            "category": ["Operators", "Skyfire", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Skyfire",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Leizi",
-            "category": ["Operators", "Leizi", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Leizi",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Astgenne",
-            "category": ["Operators", "Astgenne", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Astgenne",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Beeswax",
-            "category": ["Operators", "Beeswax", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Beeswax",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Leonhardt",
@@ -1078,32 +1786,62 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Santalla",
-            "category": ["Operators", "Santalla", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Santalla",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mint",
-            "category": ["Operators", "Mint", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mint",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Iris",
-            "category": ["Operators", "Iris", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Iris",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Harmonie",
-            "category": ["Operators", "Harmonie", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Harmonie",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Delphine",
-            "category": ["Operators", "Delphine", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Delphine",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Lava the Purgatory",
@@ -1114,7 +1852,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Corroserum",
@@ -1125,22 +1863,40 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Aroma",
-            "category": ["Operators", "Aroma", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Aroma",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Kjera",
-            "category": ["Operators", "Kjera", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Kjera",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Rockrock",
-            "category": ["Operators", "Rockrock", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Rockrock",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Minimalist",
@@ -1151,17 +1907,29 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Diamante",
-            "category": ["Operators", "Diamante", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Diamante",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Warmy",
-            "category": ["Operators", "Warmy", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Warmy",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Miss.Christine",
@@ -1172,22 +1940,40 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Tecno",
-            "category": ["Operators", "Tecno", "5 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Tecno",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mayer",
-            "category": ["Operators", "Mayer", "5 Star", "Supporter", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mayer",
+                "5 Star",
+                "Supporter",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Scene",
-            "category": ["Operators", "Scene", "5 Star", "Supporter", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Scene",
+                "5 Star",
+                "Supporter",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Sand Reckoner",
@@ -1198,22 +1984,40 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Silence",
-            "category": ["Operators", "Silence", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Silence",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Warfarin",
-            "category": ["Operators", "Warfarin", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Warfarin",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Folinic",
-            "category": ["Operators", "Folinic", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Folinic",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Record Keeper",
@@ -1224,12 +2028,18 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ceylon",
-            "category": ["Operators", "Ceylon", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ceylon",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Whisperain",
@@ -1240,22 +2050,40 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Nowell",
-            "category": ["Operators", "Nowell", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Nowell",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Tuye",
-            "category": ["Operators", "Tuye", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Tuye",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mulberry",
-            "category": ["Operators", "Mulberry", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mulberry",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Honeyberry",
@@ -1266,12 +2094,18 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Harold",
-            "category": ["Operators", "Harold", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Harold",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Hibiscus the Purifier",
@@ -1282,37 +2116,73 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Vendela",
-            "category": ["Operators", "Vendela", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Vendela",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Paprika",
-            "category": ["Operators", "Paprika", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Paprika",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Papyrus",
-            "category": ["Operators", "Papyrus", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Papyrus",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Taraxacum",
-            "category": ["Operators", "Taraxacum", "5 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Taraxacum",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Nearl",
-            "category": ["Operators", "Nearl", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Nearl",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Hung",
-            "category": ["Operators", "Hung", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Hung",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Bassline",
@@ -1323,12 +2193,18 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Senshi",
-            "category": ["Operators", "Senshi", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Senshi",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Projekt Red",
@@ -1339,7 +2215,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Waai Fu",
@@ -1350,12 +2226,18 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Kafka",
-            "category": ["Operators", "Kafka", "5 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Kafka",
+                "5 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mr. Nothing",
@@ -1366,7 +2248,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Figurino",
@@ -1377,12 +2259,18 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Liskarm",
-            "category": ["Operators", "Liskarm", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Liskarm",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Underflow",
@@ -1393,7 +2281,7 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Croissant",
@@ -1404,17 +2292,29 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Bison",
-            "category": ["Operators", "Bison", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Bison",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Vulcan",
-            "category": ["Operators", "Vulcan", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Vulcan",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Vetochki",
@@ -1425,7 +2325,7 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Asbestos",
@@ -1436,22 +2336,40 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Shalem",
-            "category": ["Operators", "Shalem", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Shalem",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Czerny",
-            "category": ["Operators", "Czerny", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Czerny",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Blitz",
-            "category": ["Operators", "Blitz", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Blitz",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Heavyrain",
@@ -1462,12 +2380,18 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ashlock",
-            "category": ["Operators", "Ashlock", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ashlock",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Firewhistle",
@@ -1478,32 +2402,62 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Aurora",
-            "category": ["Operators", "Aurora", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Aurora",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Cement",
-            "category": ["Operators", "Cement", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Cement",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Philae",
-            "category": ["Operators", "Philae", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Philae",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Provence",
-            "category": ["Operators", "Provence", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Provence",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Melanite",
-            "category": ["Operators", "Melanite", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Melanite",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Firewatch",
@@ -1514,17 +2468,29 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Andreana",
-            "category": ["Operators", "Andreana", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Andreana",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Lunacub",
-            "category": ["Operators", "Lunacub", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lunacub",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Toddifons",
@@ -1535,17 +2501,29 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Erato",
-            "category": ["Operators", "Erato", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Erato",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ju",
-            "category": ["Operators", "Ju", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ju",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Greyy the Lightningbearer",
@@ -1556,12 +2534,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Coldshot",
-            "category": ["Operators", "Coldshot", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Coldshot",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Snow Hunter",
@@ -1572,12 +2556,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Brigid",
-            "category": ["Operators", "Brigid", "5 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Brigid",
+                "5 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Spuria",
@@ -1588,7 +2578,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Cliffheart",
@@ -1599,7 +2589,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Snowsant",
@@ -1610,7 +2600,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Almond",
@@ -1621,7 +2611,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Pramanix",
@@ -1632,7 +2622,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Shamare",
@@ -1643,7 +2633,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Lucilla",
@@ -1654,7 +2644,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Istina",
@@ -1665,7 +2655,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Glaucus",
@@ -1676,7 +2666,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Proviso",
@@ -1687,7 +2677,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Grain Buds",
@@ -1698,7 +2688,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Windflit",
@@ -1709,7 +2699,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Catherine",
@@ -1720,22 +2710,40 @@
                 "Supporter",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Alanna",
-            "category": ["Operators", "Alanna", "5 Star", "Supporter", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Alanna",
+                "5 Star",
+                "Supporter",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Sora",
-            "category": ["Operators", "Sora", "5 Star", "Supporter", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Sora",
+                "5 Star",
+                "Supporter",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Heidi",
-            "category": ["Operators", "Heidi", "5 Star", "Supporter", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Heidi",
+                "5 Star",
+                "Supporter",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Uika Misumi",
@@ -1746,7 +2754,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Tsukinogi",
@@ -1757,7 +2765,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Nine-Colored Deer",
@@ -1768,7 +2776,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Quercus",
@@ -1779,7 +2787,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Xingzhu",
@@ -1790,7 +2798,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Perfumer the Distilled",
@@ -1801,7 +2809,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Valarqvin",
@@ -1812,7 +2820,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Bobbing",
@@ -1823,7 +2831,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Manticore",
@@ -1834,7 +2842,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Kirara",
@@ -1845,7 +2853,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Umiri Yahata",
@@ -1856,7 +2864,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock FEater",
@@ -1867,7 +2875,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Enforcer",
@@ -1878,7 +2886,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Robin",
@@ -1889,7 +2897,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Frost",
@@ -1900,7 +2908,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Wulfenite",
@@ -1911,12 +2919,18 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Bena",
-            "category": ["Operators", "Bena", "5 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Bena",
+                "5 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Kazemaru",
@@ -1927,12 +2941,18 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Iana",
-            "category": ["Operators", "Iana", "5 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Iana",
+                "5 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mutsumi Wakaba",
@@ -1943,7 +2963,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Tin Man",
@@ -1954,52 +2974,106 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Tippi",
-            "category": ["Operators", "Tippi", "5 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Tippi",
+                "5 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Exusiai",
-            "category": ["Operators", "Exusiai", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Exusiai",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Archetto",
-            "category": ["Operators", "Archetto", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Archetto",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ash",
-            "category": ["Operators", "Ash", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ash",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Schwarz",
-            "category": ["Operators", "Schwarz", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Schwarz",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Pozëmka",
-            "category": ["Operators", "Pozëmka", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Pozëmka",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Fartooth",
-            "category": ["Operators", "Fartooth", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Fartooth",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Lemuen",
-            "category": ["Operators", "Lemuen", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lemuen",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock W",
-            "category": ["Operators", "W", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "W",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Fiammetta",
@@ -2010,17 +3084,29 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Rosa",
-            "category": ["Operators", "Rosa", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Rosa",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Typhon",
-            "category": ["Operators", "Typhon", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Typhon",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Rosmontis",
@@ -2031,12 +3117,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Wiš'adel",
-            "category": ["Operators", "Wiš'adel", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Wiš'adel",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ch'en the Holungday",
@@ -2047,12 +3139,18 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ray",
-            "category": ["Operators", "Ray", "6 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ray",
+                "6 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Narantuya",
@@ -2063,22 +3161,40 @@
                 "Sniper",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Siege",
-            "category": ["Operators", "Siege", "6 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Siege",
+                "6 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Bagpipe",
-            "category": ["Operators", "Bagpipe", "6 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Bagpipe",
+                "6 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Saga",
-            "category": ["Operators", "Saga", "6 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Saga",
+                "6 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Vulpisfoglia",
@@ -2089,7 +3205,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Saileach",
@@ -2100,7 +3216,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Flametail",
@@ -2111,12 +3227,18 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Vigil",
-            "category": ["Operators", "Vigil", "6 Star", "Vanguard", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Vigil",
+                "6 Star",
+                "Vanguard",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Muelsyse",
@@ -2127,7 +3249,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock SilverAsh the Reignfrost",
@@ -2138,22 +3260,40 @@
                 "Vanguard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ines",
-            "category": ["Operators", "Ines", "6 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ines",
+                "6 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ifrit",
-            "category": ["Operators", "Ifrit", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ifrit",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mostima",
-            "category": ["Operators", "Mostima", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mostima",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Eyjafjalla",
@@ -2164,12 +3304,18 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ceobe",
-            "category": ["Operators", "Ceobe", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ceobe",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ho'olheyak",
@@ -2180,22 +3326,40 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Logos",
-            "category": ["Operators", "Logos", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Logos",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Dusk",
-            "category": ["Operators", "Dusk", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Dusk",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Marcille",
-            "category": ["Operators", "Marcille", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Marcille",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Passenger",
@@ -2206,7 +3370,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Carnelian",
@@ -2217,12 +3381,18 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Lin",
-            "category": ["Operators", "Lin", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lin",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Pramanix the Prerita",
@@ -2233,7 +3403,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Goldenglow",
@@ -2244,7 +3414,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Lappland the Decadenza",
@@ -2255,17 +3425,29 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ebenholz",
-            "category": ["Operators", "Ebenholz", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ebenholz",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Nymph",
-            "category": ["Operators", "Nymph", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Nymph",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Blaze the Igniting Spark",
@@ -2276,17 +3458,29 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Mantra",
-            "category": ["Operators", "Mantra", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mantra",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Necrass",
-            "category": ["Operators", "Necrass", "6 Star", "Caster", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Necrass",
+                "6 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Gnosis",
@@ -2297,7 +3491,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Angelina",
@@ -2308,7 +3502,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Suzuran",
@@ -2319,7 +3513,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Astgenne the Lightchaser",
@@ -2330,7 +3524,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Magallan",
@@ -2341,7 +3535,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Raidian",
@@ -2352,7 +3546,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Skadi the Corrupting Heart",
@@ -2363,7 +3557,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Civilight Eterna",
@@ -2374,7 +3568,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Silence the Paradigmatic",
@@ -2385,7 +3579,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Haruka",
@@ -2396,12 +3590,18 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ling",
-            "category": ["Operators", "Ling", "6 Star", "Supporter", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ling",
+                "6 Star",
+                "Supporter",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Stainless",
@@ -2412,12 +3612,18 @@
                 "Supporter",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Nasti",
-            "category": ["Operators", "Nasti", "6 Star", "Supporter", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Nasti",
+                "6 Star",
+                "Supporter",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Virtuosa",
@@ -2428,7 +3634,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Tragodia",
@@ -2439,7 +3645,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Phantom",
@@ -2450,7 +3656,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Texas the Omertosa",
@@ -2461,7 +3667,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Kirin R Yato",
@@ -2472,7 +3678,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Crownslayer",
@@ -2483,12 +3689,18 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Lee",
-            "category": ["Operators", "Lee", "6 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lee",
+                "6 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Swire the Elegant Wit",
@@ -2499,17 +3711,29 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Weedy",
-            "category": ["Operators", "Weedy", "6 Star", "Specialist", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Weedy",
+                "6 Star",
+                "Specialist",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Aak",
-            "category": ["Operators", "Aak", "6 Star", "Specialist", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Aak",
+                "6 Star",
+                "Specialist",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Exusiai the New Covenant",
@@ -2520,7 +3744,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Gladiia",
@@ -2531,7 +3755,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Mizuki",
@@ -2542,7 +3766,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ascalon",
@@ -2553,7 +3777,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Specter the Unchained",
@@ -2564,7 +3788,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Dorothy",
@@ -2575,17 +3799,29 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ela",
-            "category": ["Operators", "Ela", "6 Star", "Specialist", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ela",
+                "6 Star",
+                "Specialist",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Wang",
-            "category": ["Operators", "Wang", "6 Star", "Specialist", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Wang",
+                "6 Star",
+                "Specialist",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Thorns the Lodestar",
@@ -2596,12 +3832,18 @@
                 "Specialist",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Shining",
-            "category": ["Operators", "Shining", "6 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Shining",
+                "6 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Nightingale",
@@ -2612,17 +3854,29 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Kal'tsit",
-            "category": ["Operators", "Kal'tsit", "6 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Kal'tsit",
+                "6 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Lumen",
-            "category": ["Operators", "Lumen", "6 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lumen",
+                "6 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Eyjafjalla the Hvít Aska",
@@ -2633,7 +3887,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Reed the Flame Shadow",
@@ -2644,17 +3898,29 @@
                 "Medic",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Titi",
-            "category": ["Operators", "Titi", "6 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Titi",
+                "6 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mon3tr",
-            "category": ["Operators", "Mon3tr", "6 Star", "Medic", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mon3tr",
+                "6 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Hoshiguma",
@@ -2665,12 +3931,18 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Saria",
-            "category": ["Operators", "Saria", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Saria",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Blemishine",
@@ -2681,27 +3953,51 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Shu",
-            "category": ["Operators", "Shu", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Shu",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Nian",
-            "category": ["Operators", "Nian", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Nian",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Mudrock",
-            "category": ["Operators", "Mudrock", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mudrock",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Penance",
-            "category": ["Operators", "Penance", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Penance",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Eunectes",
@@ -2712,12 +4008,18 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Horn",
-            "category": ["Operators", "Horn", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Horn",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Jessica the Liberated",
@@ -2728,7 +4030,7 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Sankta Miksaparato",
@@ -2739,12 +4041,18 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Yu",
-            "category": ["Operators", "Yu", "6 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Yu",
+                "6 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Hoshiguma the Breacher",
@@ -2755,32 +4063,62 @@
                 "Defender",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Mountain",
-            "category": ["Operators", "Mountain", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Mountain",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Chongyue",
-            "category": ["Operators", "Chongyue", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Chongyue",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock SilverAsh",
-            "category": ["Operators", "SilverAsh", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "SilverAsh",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Thorns",
-            "category": ["Operators", "Thorns", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Thorns",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Qiubai",
-            "category": ["Operators", "Qiubai", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Qiubai",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Sakiko Togawa",
@@ -2791,32 +4129,62 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Hoederer",
-            "category": ["Operators", "Hoederer", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Hoederer",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ulpianus",
-            "category": ["Operators", "Ulpianus", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ulpianus",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Pepe",
-            "category": ["Operators", "Pepe", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Pepe",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Ch'en",
-            "category": ["Operators", "Ch'en", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Ch'en",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Irene",
-            "category": ["Operators", "Irene", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Irene",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Degenbrecher",
@@ -2827,12 +4195,18 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Blaze",
-            "category": ["Operators", "Blaze", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Blaze",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Gavial the Invincible",
@@ -2843,17 +4217,29 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Surtr",
-            "category": ["Operators", "Surtr", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Surtr",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Viviana",
-            "category": ["Operators", "Viviana", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Viviana",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Vina Victoria",
@@ -2864,7 +4250,7 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Ch'en the Dawnstreak",
@@ -2875,22 +4261,40 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Hellagur",
-            "category": ["Operators", "Hellagur", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Hellagur",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Zuo Le",
-            "category": ["Operators", "Zuo Le", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Zuo Le",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Pallas",
-            "category": ["Operators", "Pallas", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Pallas",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Nearl the Radiant Knight",
@@ -2901,12 +4305,18 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Lessing",
-            "category": ["Operators", "Lessing", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Lessing",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Executor the Ex Foedere",
@@ -2917,17 +4327,29 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Entelechia",
-            "category": ["Operators", "Entelechia", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Entelechia",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Młynar",
-            "category": ["Operators", "Młynar", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Młynar",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Leizi the Thunderbringer",
@@ -2938,37 +4360,73 @@
                 "Guard",
                 "Melee"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Cairn",
-            "category": ["Operators", "Cairn", "5 Star", "Defender", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Cairn",
+                "5 Star",
+                "Defender",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Savage",
-            "category": ["Operators", "Savage", "5 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Savage",
+                "5 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Catapult",
-            "category": ["Operators", "Catapult", "3 Star", "Sniper", "Ranged"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Catapult",
+                "3 Star",
+                "Sniper",
+                "Ranged"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Midnight",
-            "category": ["Operators", "Midnight", "3 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Midnight",
+                "3 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Beehunter",
-            "category": ["Operators", "Beehunter", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Beehunter",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Jackie",
-            "category": ["Operators", "Jackie", "4 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Jackie",
+                "4 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Nightmare",
@@ -2979,17 +4437,29 @@
                 "Caster",
                 "Ranged"
             ],
-            "progression": true
+            "useful": true
         },
         {
             "name": "Unlock Grani",
-            "category": ["Operators", "Grani", "5 Star", "Vanguard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Grani",
+                "5 Star",
+                "Vanguard",
+                "Melee"
+            ],
+            "useful": true
         },
         {
             "name": "Unlock Skadi",
-            "category": ["Operators", "Skadi", "6 Star", "Guard", "Melee"],
-            "progression": true
+            "category": [
+                "Operators",
+                "Skadi",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
         }
     ]
 }

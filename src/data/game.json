@@ -1,10 +1,8 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
     "game": "Arknights",
-    "creator": "",
-
+    "creator": "VulpesNova",
     "filler_item_name": "LMD",
-
     "starting_items": [],
     "death_link": false,
     "starting_index": 1,

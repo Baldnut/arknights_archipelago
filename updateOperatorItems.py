@@ -35,7 +35,7 @@ for id in chars.keys():
                         f"{chars[id]["rarity"][5]} Star",
                         class_names[chars[id]["profession"]],
                         chars[id]["position"].capitalize()]
-    char["progression"] = True
+    char["useful"] = True
 
     items.append(char)
 
