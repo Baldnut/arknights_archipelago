@@ -3,7 +3,12 @@
     "game": "Arknights",
     "creator": "VulpesNova",
     "filler_item_name": "LMD",
-    "starting_items": [],
+    "starting_items": [
+        {
+            "item_categories": ["Operators"],
+            "random": 2
+        }
+    ],
     "death_link": false,
     "starting_index": 1,
     "unused_goals_are_locations": false
