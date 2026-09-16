@@ -1800,6 +1800,17 @@
             "useful": true
         },
         {
+            "name": "Ripresa",
+            "category": [
+                "Operators",
+                "Ripresa",
+                "5 Star",
+                "Caster",
+                "Ranged"
+            ],
+            "useful": true
+        },
+        {
             "name": "Mint",
             "category": [
                 "Operators",
@@ -2145,6 +2156,17 @@
             "category": [
                 "Operators",
                 "Papyrus",
+                "5 Star",
+                "Medic",
+                "Ranged"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ukusik",
+            "category": [
+                "Operators",
+                "Ukusik",
                 "5 Star",
                 "Medic",
                 "Ranged"
@@ -2827,6 +2849,17 @@
             "category": [
                 "Operators",
                 "Bobbing",
+                "5 Star",
+                "Supporter",
+                "Ranged"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Botani",
+            "category": [
+                "Operators",
+                "Botani",
                 "5 Star",
                 "Supporter",
                 "Ranged"
@@ -4088,6 +4121,17 @@
             "useful": true
         },
         {
+            "name": "Bellone",
+            "category": [
+                "Operators",
+                "Bellone",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
+        },
+        {
             "name": "SilverAsh",
             "category": [
                 "Operators",
@@ -4158,6 +4202,17 @@
             "category": [
                 "Operators",
                 "Pepe",
+                "6 Star",
+                "Guard",
+                "Melee"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Zima the Raging Tide",
+            "category": [
+                "Operators",
+                "Zima the Raging Tide",
                 "6 Star",
                 "Guard",
                 "Melee"
