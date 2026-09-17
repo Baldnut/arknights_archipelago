@@ -31,25 +31,21 @@ for act in data:
     categories[act] = {"hidden": True}
     for story in data[act]:
         prevRegion = None
+        progressiveCount = 0
         for part in data[act][story]:
+            progressiveCount += 1
 
             region = f"{story} {part}"
             regions[region] = {}
-            
-            categories[region] = {"hidden": True}
 
-            items.append({
-                "name": region,
-                "category": ["Stages", act, story],
-                "progression": True
-            })
+            categories[region] = {"hidden": True}
 
             if prevRegion == None:
                 regions[region]["starting"] = True
-                regions[region]["requires"] = f"|{region}|"
+                regions[region]["requires"] = f"|Progressive {story}:1|"
             else:
                 regions[prevRegion]["connects_to"] = [region]
-                regions[prevRegion]["exit_requires"] = {region: f"|{region}|"}
+                regions[prevRegion]["exit_requires"] = {region: f"|Progressive {story}:{progressiveCount}|"}
 
             prevRegion = region
             for stage in data[act][story][part]:
@@ -80,6 +76,13 @@ for act in data:
                     stars["victory"] = True
 
                 locations.append(stars)
+
+        items.append({
+            "name": f"Progressive {story}",
+            "category": ["Stages", act, story],
+            "progression": True,
+            "count": progressiveCount
+        })
 
 locationdata["data"] = locations
 

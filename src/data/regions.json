@@ -2,34 +2,34 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
     "Episode 0 Part 0": {
         "starting": true,
-        "requires": "|Episode 0 Part 0|",
+        "requires": "|Progressive Episode 0:1|",
         "connects_to": [
             "Episode 0 Part 1"
         ],
         "exit_requires": {
-            "Episode 0 Part 1": "|Episode 0 Part 1|"
+            "Episode 0 Part 1": "|Progressive Episode 0:2|"
         }
     },
     "Episode 0 Part 1": {},
     "Episode 1 Part 1": {},
     "Episode 1 Part 0": {
         "starting": true,
-        "requires": "|Episode 1 Part 0|",
+        "requires": "|Progressive Episode 1:1|",
         "connects_to": [
             "Episode 1 Part 1"
         ],
         "exit_requires": {
-            "Episode 1 Part 1": "|Episode 1 Part 1|"
+            "Episode 1 Part 1": "|Progressive Episode 1:2|"
         }
     },
     "Episode 2 Part 0": {
         "starting": true,
-        "requires": "|Episode 2 Part 0|",
+        "requires": "|Progressive Episode 2:1|",
         "connects_to": [
             "Episode 2 Part 1"
         ],
         "exit_requires": {
-            "Episode 2 Part 1": "|Episode 2 Part 1|"
+            "Episode 2 Part 1": "|Progressive Episode 2:2|"
         }
     },
     "Episode 2 Part 1": {
@@ -37,7 +37,7 @@
             "Episode 2 Part 2"
         ],
         "exit_requires": {
-            "Episode 2 Part 2": "|Episode 2 Part 2|"
+            "Episode 2 Part 2": "|Progressive Episode 2:3|"
         }
     },
     "Episode 2 Part 2": {
@@ -45,18 +45,18 @@
             "Episode 2 Part 3"
         ],
         "exit_requires": {
-            "Episode 2 Part 3": "|Episode 2 Part 3|"
+            "Episode 2 Part 3": "|Progressive Episode 2:4|"
         }
     },
     "Episode 2 Part 3": {},
     "Episode 3 Part 0": {
         "starting": true,
-        "requires": "|Episode 3 Part 0|",
+        "requires": "|Progressive Episode 3:1|",
         "connects_to": [
             "Episode 3 Part 1"
         ],
         "exit_requires": {
-            "Episode 3 Part 1": "|Episode 3 Part 1|"
+            "Episode 3 Part 1": "|Progressive Episode 3:2|"
         }
     },
     "Episode 3 Part 1": {}
