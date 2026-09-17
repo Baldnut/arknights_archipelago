@@ -2,19 +2,27 @@ Act 0:
   Episode 0:
     Part 0:
       - id: 0-1
+      - id: TR-1
       - id: 0-2
+      - id: TR-2
       - id: 0-3
         air: 1
+      - id: TR-3
       - id: 0-4
+      - id: TR-4
         air: 1
       - id: 0-5
         air: 1
       - id: 0-6
         air: 1
     Part 1:
+      - id: TR-5
       - id: 0-7
+      - id: TR-6
       - id: 0-8
       - id: 0-9
+      - id: TR-7
+      - id: TR-S-1
       - id: 0-10
         air: 1
       - id: 0-11

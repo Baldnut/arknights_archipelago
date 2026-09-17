@@ -63,6 +63,9 @@ for act in data:
                     if type(stage["air"]) != int:
                         print(f"value 'air' of {stage["id"]} is not an integer")
                     location["requires"] = f"|@Ranged:{stage["air"]}|"
+                    
+                if stage["id"].startswith("TR"):
+                    location["category"].append("Training")
 
                 locations.append(location)
 

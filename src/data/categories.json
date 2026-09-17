@@ -1,5 +1,8 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Training": {
+        "yaml_option": ["enable_training_stages"]
+    },
     "Lancet-2": {
         "hidden": true
     },
