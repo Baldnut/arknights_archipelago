@@ -90,6 +90,28 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
 
+    startingOperators = world.options.starting_operators
+    operators = [
+        name for name, i in world.item_name_to_item.items() if "Operators" in i.get("category", [])
+    ]
+
+    while startingOperators > 0:
+        if len(operators) == 0:
+            break
+
+        op = world.random.choice(operators)
+
+        opItem = next((i for i in item_pool if i.name == op), None)
+
+        if opItem == None:
+            operators.remove(op)
+            pass
+
+        multiworld.push_precollected(opItem)
+        item_pool.remove(opItem)
+        operators.remove(op)
+        startingOperators -= 1
+
     return item_pool
 
     # Some other useful hook options:
