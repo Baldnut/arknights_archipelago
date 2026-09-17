@@ -39,7 +39,7 @@ for act in data:
 
             items.append({
                 "name": region,
-                "caregory": ["Stages", act, story],
+                "category": ["Stages", act, story],
                 "progression": True
             })
 
