@@ -4528,6 +4528,69 @@
                 "Melee"
             ],
             "progression": true
+        },
+        {
+            "name": "Episode 0 Part 0",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 0"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 0 Part 1",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 0"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 1 Part 1",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 1"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 0 Part 0",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 0"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 0 Part 1",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 0"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 1 Part 0",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 1"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 1 Part 1",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 1"
+            ],
+            "progression": true
         }
     ]
 }

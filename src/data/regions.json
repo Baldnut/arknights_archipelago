@@ -10,5 +10,16 @@
             "Episode 0 Part 1": "|Episode 0 Part 1|"
         }
     },
-    "Episode 0 Part 1": {}
+    "Episode 0 Part 1": {},
+    "Episode 1 Part 1": {},
+    "Episode 1 Part 0": {
+        "starting": true,
+        "requires": "|Episode 1 Part 0|",
+        "connects_to": [
+            "Episode 1 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 1 Part 1": "|Episode 1 Part 1|"
+        }
+    }
 }

@@ -22,6 +22,28 @@
             "region": "Episode 0 Part 0"
         },
         {
+            "name": "TR-1 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
+            "name": "TR-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
             "name": "0-2 Clear",
             "category": [
                 "Stage",
@@ -38,6 +60,28 @@
                 "Act 0",
                 "Episode 0",
                 "Part 0"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
+            "name": "TR-2 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
+            "name": "TR-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
             ],
             "region": "Episode 0 Part 0"
         },
@@ -64,6 +108,28 @@
             "requires": "|@Ranged:1|"
         },
         {
+            "name": "TR-3 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
+            "name": "TR-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
             "name": "0-4 Clear",
             "category": [
                 "Stage",
@@ -71,8 +137,7 @@
                 "Episode 0",
                 "Part 0"
             ],
-            "region": "Episode 0 Part 0",
-            "requires": "|@Ranged:1|"
+            "region": "Episode 0 Part 0"
         },
         {
             "name": "0-4 3-Star",
@@ -81,6 +146,29 @@
                 "Act 0",
                 "Episode 0",
                 "Part 0"
+            ],
+            "region": "Episode 0 Part 0"
+        },
+        {
+            "name": "TR-4 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 0 Part 0",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "TR-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 0",
+                "Training"
             ],
             "region": "Episode 0 Part 0",
             "requires": "|@Ranged:1|"
@@ -130,6 +218,28 @@
             "requires": "|@Ranged:1|"
         },
         {
+            "name": "TR-5 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
+            "name": "TR-5 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
             "name": "0-7 Clear",
             "category": [
                 "Stage",
@@ -146,6 +256,28 @@
                 "Act 0",
                 "Episode 0",
                 "Part 1"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
+            "name": "TR-6 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
+            "name": "TR-6 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
             ],
             "region": "Episode 0 Part 1"
         },
@@ -190,6 +322,50 @@
             "region": "Episode 0 Part 1"
         },
         {
+            "name": "TR-7 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
+            "name": "TR-7 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
+            "name": "TR-S-1 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
+            "name": "TR-S-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 0",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 0 Part 1"
+        },
+        {
             "name": "0-10 Clear",
             "category": [
                 "Stage",
@@ -230,6 +406,323 @@
                 "Part 1"
             ],
             "region": "Episode 0 Part 1",
+            "victory": true
+        },
+        {
+            "name": "1-1 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-2 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0",
+                "Set Squad"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0",
+                "Set Squad"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-3 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-4 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "1-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "1-5 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "1-5 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "TR-8 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "TR-8 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0",
+                "Training"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-6 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "1-6 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 0"
+            ],
+            "region": "Episode 1 Part 0"
+        },
+        {
+            "name": "TR-9 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "TR-9 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-7 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-7 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-8 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "1-8 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "TR-10 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "TR-10 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1",
+                "Training"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-9 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-9 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-10 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-10 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-11 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1",
+                "Set Squad"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-11 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1",
+                "Set Squad"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-12 Clear",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1"
+        },
+        {
+            "name": "1-12 3-Star",
+            "category": [
+                "Stage",
+                "Act 0",
+                "Episode 1",
+                "Part 1"
+            ],
+            "region": "Episode 1 Part 1",
             "victory": true
         }
     ]

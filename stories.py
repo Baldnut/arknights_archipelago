@@ -67,6 +67,9 @@ for act in data:
                 if stage["id"].startswith("TR"):
                     location["category"].append("Training")
 
+                if "set" in stage.keys() and stage["set"] == True:
+                    location["category"].append("Set Squad")
+
                 locations.append(location)
 
                 stars = location.copy()
