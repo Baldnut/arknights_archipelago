@@ -10,6 +10,11 @@
             "enable_set_squad_stages"
         ]
     },
+    "Hard": {
+        "yaml_option": [
+            "enable_H_stages"
+        ]
+    },
     "Lancet-2": {
         "hidden": true
     },
@@ -1292,6 +1297,9 @@
         "hidden": true
     },
     "Episode 5 Part 2": {
+        "hidden": true
+    },
+    "Episode 5 Part 3": {
         "hidden": true
     }
 }

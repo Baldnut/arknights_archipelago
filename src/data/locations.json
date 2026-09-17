@@ -2435,6 +2435,98 @@
                 "Episode 5 Part 2"
             ],
             "region": "Episode 5 Part 2"
+        },
+        {
+            "name": "H5-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "H5-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "H5-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3"
+        },
+        {
+            "name": "H5-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3"
+        },
+        {
+            "name": "H5-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3"
+        },
+        {
+            "name": "H5-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3"
+        },
+        {
+            "name": "H5-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "H5-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 5",
+                "Episode 5 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 5 Part 3",
+            "requires": "|@Ranged:1|"
         }
     ]
 }

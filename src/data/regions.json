@@ -97,5 +97,13 @@
             "Episode 5 Part 2": "|Progressive Episode 5:3|"
         }
     },
-    "Episode 5 Part 2": {}
+    "Episode 5 Part 2": {
+        "connects_to": [
+            "Episode 5 Part 3"
+        ],
+        "exit_requires": {
+            "Episode 5 Part 3": "|Progressive Episode 5:4|"
+        }
+    },
+    "Episode 5 Part 3": {}
 }

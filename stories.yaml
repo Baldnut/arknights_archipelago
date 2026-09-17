@@ -180,3 +180,10 @@ Act 1:
       - id: S5-8
       - id: S5-9
       - id: 5-10
+    Part 3:
+      - id: H5-1
+        air: 2
+      - id: H5-2
+      - id: H5-3
+      - id: H5-4
+        air: 1
