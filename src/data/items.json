@@ -2,8 +2,21 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
+            "name": "Episode 0 Part 0",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 0"
+            ],
+            "progression": true
+        },
+        {
             "name": "Episode 0 Part 1",
-            "category": "Stages",
+            "caregory": [
+                "Stages",
+                "Act 0",
+                "Episode 0"
+            ],
             "progression": true
         },
         {

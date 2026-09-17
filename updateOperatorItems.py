@@ -32,8 +32,7 @@ for id in chars.keys():
     if chars[id]["itemObtainApproach"] == None:
         continue
 
-    categories[chars[id]["name"]] = {}
-    categories[chars[id]["name"]]["hidden"] = True
+    categories[chars[id]["name"]] = {"hidden": True}
 
     char = {}
     char["name"] = chars[id]["name"]

@@ -1,8 +1,11 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
     "Episode 0 Part 0": {
-        "connects_to": ["Episode 0 Part 1"],
         "starting": true,
+        "requires": "|Episode 0 Part 0|",
+        "connects_to": [
+            "Episode 0 Part 1"
+        ],
         "exit_requires": {
             "Episode 0 Part 1": "|Episode 0 Part 1|"
         }

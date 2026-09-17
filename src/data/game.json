@@ -3,7 +3,11 @@
     "game": "Arknights",
     "creator": "VulpesNova",
     "filler_item_name": "LMD",
-    "starting_items": [],
+    "starting_items": [
+        {
+            "items": ["Episode 0 Part 0"]
+        }
+    ],
     "death_link": false,
     "starting_index": 1,
     "unused_goals_are_locations": false
