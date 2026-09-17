@@ -112,6 +112,11 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         operators.remove(op)
         startingOperators -= 1
 
+    item = next((i for i in item_pool if i.name == "Progressive Episode 0"), None)
+
+    multiworld.push_precollected(item)
+    item_pool.remove(item)
+
     return item_pool
 
     # Some other useful hook options:

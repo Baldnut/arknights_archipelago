@@ -3,11 +3,7 @@
     "game": "Arknights",
     "creator": "VulpesNova",
     "filler_item_name": "LMD",
-    "starting_items": [
-        {
-            "items": ["Progressive Episode 0"]
-        }
-    ],
+    "starting_items": [],
     "death_link": false,
     "starting_index": 1,
     "unused_goals_are_locations": false
