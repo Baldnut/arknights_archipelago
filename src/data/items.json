@@ -4546,6 +4546,60 @@
                 "Episode 1"
             ],
             "progression": true
+        },
+        {
+            "name": "Episode 2 Part 0",
+            "category": [
+                "Stages",
+                "Act 0",
+                "Episode 2"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 2 Part 1",
+            "category": [
+                "Stages",
+                "Act 0",
+                "Episode 2"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 2 Part 2",
+            "category": [
+                "Stages",
+                "Act 0",
+                "Episode 2"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 2 Part 3",
+            "category": [
+                "Stages",
+                "Act 0",
+                "Episode 2"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 3 Part 0",
+            "category": [
+                "Stages",
+                "Act 0",
+                "Episode 3"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Episode 3 Part 1",
+            "category": [
+                "Stages",
+                "Act 0",
+                "Episode 3"
+            ],
+            "progression": true
         }
     ]
 }

@@ -21,5 +21,43 @@
         "exit_requires": {
             "Episode 1 Part 1": "|Episode 1 Part 1|"
         }
-    }
+    },
+    "Episode 2 Part 0": {
+        "starting": true,
+        "requires": "|Episode 2 Part 0|",
+        "connects_to": [
+            "Episode 2 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 2 Part 1": "|Episode 2 Part 1|"
+        }
+    },
+    "Episode 2 Part 1": {
+        "connects_to": [
+            "Episode 2 Part 2"
+        ],
+        "exit_requires": {
+            "Episode 2 Part 2": "|Episode 2 Part 2|"
+        }
+    },
+    "Episode 2 Part 2": {
+        "connects_to": [
+            "Episode 2 Part 3"
+        ],
+        "exit_requires": {
+            "Episode 2 Part 3": "|Episode 2 Part 3|"
+        }
+    },
+    "Episode 2 Part 3": {},
+    "Episode 3 Part 0": {
+        "starting": true,
+        "requires": "|Episode 3 Part 0|",
+        "connects_to": [
+            "Episode 3 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 3 Part 1": "|Episode 3 Part 1|"
+        }
+    },
+    "Episode 3 Part 1": {}
 }

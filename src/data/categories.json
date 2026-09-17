@@ -1243,10 +1243,34 @@
     "Act 0": {
         "hidden": true
     },
-    "Part 0": {
+    "Episode 0 Part 0": {
         "hidden": true
     },
-    "Part 1": {
+    "Episode 0 Part 1": {
+        "hidden": true
+    },
+    "Episode 1 Part 0": {
+        "hidden": true
+    },
+    "Episode 1 Part 1": {
+        "hidden": true
+    },
+    "Episode 2 Part 0": {
+        "hidden": true
+    },
+    "Episode 2 Part 1": {
+        "hidden": true
+    },
+    "Episode 2 Part 2": {
+        "hidden": true
+    },
+    "Episode 2 Part 3": {
+        "hidden": true
+    },
+    "Episode 3 Part 0": {
+        "hidden": true
+    },
+    "Episode 3 Part 1": {
         "hidden": true
     }
 }

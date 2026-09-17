@@ -51,3 +51,71 @@ Act 0:
         set: true
       - id: 1-12
         boss: true
+  Episode 2:
+    Part 0:
+      - id: TR-11
+      - id: 2-1
+      - id: S2-1
+      - id: 2-2
+      - id: S2-2
+        air: 1
+      - id: S2-3
+      - id: S2-4
+    Part 1:
+      - id: 2-3
+      - id: TR-12
+      - id: 2-4
+      - id: S2-5
+      - id: S2-6
+      - id: S2-7
+      - id: TR-13
+    Part 2:
+      - id: 2-5
+      - id: 2-6
+      - id: TR-14
+      - id: 2-7
+        air: 2
+      - id: S2-8
+        air: 2
+      - id: S2-9
+        air: 2
+      - id: 2-8
+        air: 1
+    Part 3:
+      - id: 2-9
+        air: 2
+      - id: TR-S-2
+      - id: S2-10
+      - id: S2-11
+      - id: S2-12
+        air: 2
+      - id: 2-10
+        air: 1
+        boss: true
+  Episode 3:
+    Part 0:
+      - id: 3-1
+        air: 1
+      - id: 3-2
+      - id: 3-3
+        air: 1
+      - id: TR-15
+      - id: S3-1
+      - id: S3-2
+        air: 1
+      - id: 3-4
+        air: 1
+    Part 1:
+      - id: 3-5
+        air: 1
+      - id: 3-6
+      - id: 3-7
+      - id: 3-8
+        air: 1
+      - id: S3-3
+      - id: S3-4
+      - id: S3-5
+        air: 1
+      - id: S3-6
+      - id: S3-7
+        air: 1

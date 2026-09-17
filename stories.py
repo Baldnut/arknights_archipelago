@@ -32,10 +32,11 @@ for act in data:
     for story in data[act]:
         prevRegion = None
         for part in data[act][story]:
-            categories[part] = {"hidden": True}
 
             region = f"{story} {part}"
             regions[region] = {}
+            
+            categories[region] = {"hidden": True}
 
             items.append({
                 "name": region,
@@ -56,7 +57,7 @@ for act in data:
 
                 location["name"] = f"{stage["id"]} Clear"
 
-                location["category"] = ["Stage", act, story, part]
+                location["category"] = ["Stage", act, story, region]
                 location["region"] = region
 
                 if "air" in stage.keys():
