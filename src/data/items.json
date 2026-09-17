@@ -4550,6 +4550,26 @@
             ],
             "progression": true,
             "count": 2
+        },
+        {
+            "name": "Progressive Episode 4",
+            "category": [
+                "Stages",
+                "Act 1",
+                "Episode 4"
+            ],
+            "progression": true,
+            "count": 3
+        },
+        {
+            "name": "Progressive Episode 5",
+            "category": [
+                "Stages",
+                "Act 1",
+                "Episode 5"
+            ],
+            "progression": true,
+            "count": 3
         }
     ]
 }

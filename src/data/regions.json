@@ -59,5 +59,43 @@
             "Episode 3 Part 1": "|Progressive Episode 3:2|"
         }
     },
-    "Episode 3 Part 1": {}
+    "Episode 3 Part 1": {},
+    "Episode 4 Part 0": {
+        "starting": true,
+        "requires": "|Progressive Episode 4:1|",
+        "connects_to": [
+            "Episode 4 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 4 Part 1": "|Progressive Episode 4:2|"
+        }
+    },
+    "Episode 4 Part 1": {
+        "connects_to": [
+            "Episode 4 Part 2"
+        ],
+        "exit_requires": {
+            "Episode 4 Part 2": "|Progressive Episode 4:3|"
+        }
+    },
+    "Episode 4 Part 2": {},
+    "Episode 5 Part 0": {
+        "starting": true,
+        "requires": "|Progressive Episode 5:1|",
+        "connects_to": [
+            "Episode 5 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 5 Part 1": "|Progressive Episode 5:2|"
+        }
+    },
+    "Episode 5 Part 1": {
+        "connects_to": [
+            "Episode 5 Part 2"
+        ],
+        "exit_requires": {
+            "Episode 5 Part 2": "|Progressive Episode 5:3|"
+        }
+    },
+    "Episode 5 Part 2": {}
 }
