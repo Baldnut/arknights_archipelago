@@ -15,7 +15,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Castle-3",
@@ -26,7 +26,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "THRM-EX",
@@ -37,7 +37,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "'Justice Knight'",
@@ -48,7 +48,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Terra Research Commission",
@@ -59,7 +59,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "U-Official",
@@ -70,7 +70,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Friston-3",
@@ -81,7 +81,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "PhonoR-0",
@@ -92,7 +92,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "CONFESS-47",
@@ -103,7 +103,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Yato",
@@ -114,7 +114,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Noir Corne",
@@ -125,7 +125,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rangers",
@@ -136,7 +136,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Durin",
@@ -147,7 +147,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "12F",
@@ -158,7 +158,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Fang",
@@ -169,7 +169,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vanilla",
@@ -180,7 +180,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Plume",
@@ -191,7 +191,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Melantha",
@@ -202,7 +202,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Popukar",
@@ -213,7 +213,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cardigan",
@@ -224,7 +224,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Beagle",
@@ -235,7 +235,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Spot",
@@ -246,7 +246,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kroos",
@@ -257,7 +257,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Adnachiel",
@@ -268,7 +268,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lava",
@@ -279,7 +279,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hibiscus",
@@ -290,7 +290,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ansel",
@@ -301,7 +301,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Steward",
@@ -312,7 +312,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Orchid",
@@ -323,7 +323,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Haze",
@@ -334,7 +334,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gitano",
@@ -345,7 +345,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Greyy",
@@ -356,7 +356,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Akkord",
@@ -367,7 +367,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Click",
@@ -378,7 +378,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Indigo",
@@ -389,7 +389,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pudding",
@@ -400,7 +400,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Jessica",
@@ -411,7 +411,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Meteor",
@@ -422,7 +422,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vermeil",
@@ -433,7 +433,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "May",
@@ -444,7 +444,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Shirayuki",
@@ -455,7 +455,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pinecone",
@@ -466,7 +466,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ambriel",
@@ -477,7 +477,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Aciddrop",
@@ -488,7 +488,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Totter",
@@ -499,7 +499,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Caper",
@@ -510,7 +510,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Courier",
@@ -521,7 +521,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Scavenger",
@@ -532,7 +532,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vigna",
@@ -543,7 +543,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Myrtle",
@@ -554,7 +554,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Beanstalk",
@@ -565,7 +565,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Snegurochka",
@@ -576,7 +576,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Dobermann",
@@ -587,7 +587,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Matoimaru",
@@ -598,7 +598,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Conviction",
@@ -609,7 +609,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Frostleaf",
@@ -620,7 +620,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Estelle",
@@ -631,7 +631,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mousse",
@@ -642,7 +642,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cutter",
@@ -653,7 +653,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Utage",
@@ -664,7 +664,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Arene",
@@ -675,7 +675,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Luo Xiaohei",
@@ -686,7 +686,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Quartz",
@@ -697,7 +697,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Humus",
@@ -708,7 +708,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Windscoot",
@@ -719,7 +719,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gravel",
@@ -730,7 +730,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Jaye",
@@ -741,7 +741,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rope",
@@ -752,7 +752,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Myrrh",
@@ -763,7 +763,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gavial",
@@ -774,7 +774,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sussurro",
@@ -785,7 +785,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Perfumer",
@@ -796,7 +796,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Purestream",
@@ -807,7 +807,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Chestnut",
@@ -818,7 +818,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Matterhorn",
@@ -829,7 +829,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cuora",
@@ -840,7 +840,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bubble",
@@ -851,7 +851,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lutonada",
@@ -862,7 +862,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gummy",
@@ -873,7 +873,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Dur-nar",
@@ -884,7 +884,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Deepcolor",
@@ -895,7 +895,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Earthspirit",
@@ -906,7 +906,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Podenco",
@@ -917,7 +917,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Roberta",
@@ -928,7 +928,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ethan",
@@ -939,7 +939,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Shaw",
@@ -950,7 +950,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Verdant",
@@ -961,7 +961,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Contrail",
@@ -972,7 +972,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ptilopsis",
@@ -983,7 +983,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Breeze",
@@ -994,7 +994,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rose Salt",
@@ -1005,7 +1005,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Zima",
@@ -1016,7 +1016,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Texas",
@@ -1027,7 +1027,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Chiave",
@@ -1038,7 +1038,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Poncirus",
@@ -1049,7 +1049,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kestrel",
@@ -1060,7 +1060,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Matsukiri",
@@ -1071,7 +1071,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Reed",
@@ -1082,7 +1082,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Wild Mane",
@@ -1093,7 +1093,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Fang the Fire-Sharpened",
@@ -1104,7 +1104,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Elysium",
@@ -1115,7 +1115,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Wanqing",
@@ -1126,7 +1126,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Blacknight",
@@ -1137,7 +1137,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mitm",
@@ -1148,7 +1148,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cantabile",
@@ -1159,7 +1159,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Puzzle",
@@ -1170,7 +1170,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Chilchuck",
@@ -1181,7 +1181,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Surfer",
@@ -1192,7 +1192,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Swire",
@@ -1203,7 +1203,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Whislash",
@@ -1214,7 +1214,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bryophyta",
@@ -1225,7 +1225,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Doc",
@@ -1236,7 +1236,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Franka",
@@ -1247,7 +1247,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Flamebringer",
@@ -1258,7 +1258,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Morgan",
@@ -1269,7 +1269,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Laios",
@@ -1280,7 +1280,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Indra",
@@ -1291,7 +1291,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Flint",
@@ -1302,7 +1302,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Dagda",
@@ -1313,7 +1313,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lappland",
@@ -1324,7 +1324,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ayerscarpe",
@@ -1335,7 +1335,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Leto",
@@ -1346,7 +1346,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Wind Chimes",
@@ -1357,7 +1357,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bibeak",
@@ -1368,7 +1368,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tachanka",
@@ -1379,7 +1379,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Specter",
@@ -1390,7 +1390,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Broca",
@@ -1401,7 +1401,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Fuze",
@@ -1412,7 +1412,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Varkáris",
@@ -1423,7 +1423,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Astesia",
@@ -1434,7 +1434,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sideroca",
@@ -1445,7 +1445,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Akafuyu",
@@ -1456,7 +1456,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rathalos S Noir Corne",
@@ -1467,7 +1467,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "La Pluma",
@@ -1478,7 +1478,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Highmore",
@@ -1489,7 +1489,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tequila",
@@ -1500,7 +1500,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Odda",
@@ -1511,7 +1511,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gracebearer",
@@ -1522,7 +1522,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nyamu Yūtenji",
@@ -1533,7 +1533,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hadiya",
@@ -1544,7 +1544,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Blue Poison",
@@ -1555,7 +1555,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Platinum",
@@ -1566,7 +1566,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "GreyThroat",
@@ -1577,7 +1577,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "April",
@@ -1588,7 +1588,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kroos the Keen Glint",
@@ -1599,7 +1599,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Insider",
@@ -1610,7 +1610,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Meteorite",
@@ -1621,7 +1621,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sesa",
@@ -1632,7 +1632,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Jieyun",
@@ -1643,7 +1643,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Executor",
@@ -1654,7 +1654,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Aosta",
@@ -1665,7 +1665,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kichisei",
@@ -1676,7 +1676,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Skybox",
@@ -1687,7 +1687,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Amiya",
@@ -1698,7 +1698,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Absinthe",
@@ -1709,7 +1709,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tomimi",
@@ -1720,7 +1720,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Qanipalaat",
@@ -1731,7 +1731,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Skyfire",
@@ -1742,7 +1742,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Leizi",
@@ -1753,7 +1753,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Astgenne",
@@ -1764,7 +1764,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Beeswax",
@@ -1775,7 +1775,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Leonhardt",
@@ -1786,7 +1786,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Santalla",
@@ -1797,7 +1797,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ripresa",
@@ -1808,7 +1808,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mint",
@@ -1819,7 +1819,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Iris",
@@ -1830,7 +1830,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Harmonie",
@@ -1841,7 +1841,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Delphine",
@@ -1852,7 +1852,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lava the Purgatory",
@@ -1863,7 +1863,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Corroserum",
@@ -1874,7 +1874,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Aroma",
@@ -1885,7 +1885,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kjera",
@@ -1896,7 +1896,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rockrock",
@@ -1907,7 +1907,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Minimalist",
@@ -1918,7 +1918,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Diamante",
@@ -1929,7 +1929,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Warmy",
@@ -1940,7 +1940,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Miss.Christine",
@@ -1951,7 +1951,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tecno",
@@ -1962,7 +1962,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mayer",
@@ -1973,7 +1973,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Scene",
@@ -1984,7 +1984,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sand Reckoner",
@@ -1995,7 +1995,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Silence",
@@ -2006,7 +2006,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Warfarin",
@@ -2017,7 +2017,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Folinic",
@@ -2028,7 +2028,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Record Keeper",
@@ -2039,7 +2039,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ceylon",
@@ -2050,7 +2050,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Whisperain",
@@ -2061,7 +2061,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nowell",
@@ -2072,7 +2072,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tuye",
@@ -2083,7 +2083,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mulberry",
@@ -2094,7 +2094,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Honeyberry",
@@ -2105,7 +2105,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Harold",
@@ -2116,7 +2116,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hibiscus the Purifier",
@@ -2127,7 +2127,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vendela",
@@ -2138,7 +2138,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Paprika",
@@ -2149,7 +2149,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Papyrus",
@@ -2160,7 +2160,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ukusik",
@@ -2171,7 +2171,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Taraxacum",
@@ -2182,7 +2182,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nearl",
@@ -2193,7 +2193,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hung",
@@ -2204,7 +2204,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bassline",
@@ -2215,7 +2215,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Senshi",
@@ -2226,7 +2226,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Projekt Red",
@@ -2237,7 +2237,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Waai Fu",
@@ -2248,7 +2248,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kafka",
@@ -2259,7 +2259,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mr. Nothing",
@@ -2270,7 +2270,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Figurino",
@@ -2281,7 +2281,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Liskarm",
@@ -2292,7 +2292,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Underflow",
@@ -2303,7 +2303,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Croissant",
@@ -2314,7 +2314,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bison",
@@ -2325,7 +2325,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vulcan",
@@ -2336,7 +2336,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vetochki",
@@ -2347,7 +2347,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Asbestos",
@@ -2358,7 +2358,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Shalem",
@@ -2369,7 +2369,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Czerny",
@@ -2380,7 +2380,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Blitz",
@@ -2391,7 +2391,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Heavyrain",
@@ -2402,7 +2402,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ashlock",
@@ -2413,7 +2413,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Firewhistle",
@@ -2424,7 +2424,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Aurora",
@@ -2435,7 +2435,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cement",
@@ -2446,7 +2446,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Philae",
@@ -2457,7 +2457,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Provence",
@@ -2468,7 +2468,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Melanite",
@@ -2479,7 +2479,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Firewatch",
@@ -2490,7 +2490,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Andreana",
@@ -2501,7 +2501,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lunacub",
@@ -2512,7 +2512,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Toddifons",
@@ -2523,7 +2523,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Erato",
@@ -2534,7 +2534,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ju",
@@ -2545,7 +2545,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Greyy the Lightningbearer",
@@ -2556,7 +2556,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Coldshot",
@@ -2567,7 +2567,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Snow Hunter",
@@ -2578,7 +2578,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Brigid",
@@ -2589,7 +2589,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Spuria",
@@ -2600,7 +2600,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cliffheart",
@@ -2611,7 +2611,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Snowsant",
@@ -2622,7 +2622,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Almond",
@@ -2633,7 +2633,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pramanix",
@@ -2644,7 +2644,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Shamare",
@@ -2655,7 +2655,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lucilla",
@@ -2666,7 +2666,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Istina",
@@ -2677,7 +2677,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Glaucus",
@@ -2688,7 +2688,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Proviso",
@@ -2699,7 +2699,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Grain Buds",
@@ -2710,7 +2710,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Windflit",
@@ -2721,7 +2721,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Catherine",
@@ -2732,7 +2732,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Alanna",
@@ -2743,7 +2743,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sora",
@@ -2754,7 +2754,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Heidi",
@@ -2765,7 +2765,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Uika Misumi",
@@ -2776,7 +2776,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tsukinogi",
@@ -2787,7 +2787,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nine-Colored Deer",
@@ -2798,7 +2798,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Quercus",
@@ -2809,7 +2809,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Xingzhu",
@@ -2820,7 +2820,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Perfumer the Distilled",
@@ -2831,7 +2831,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Valarqvin",
@@ -2842,7 +2842,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bobbing",
@@ -2853,7 +2853,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Botani",
@@ -2864,7 +2864,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Manticore",
@@ -2875,7 +2875,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kirara",
@@ -2886,7 +2886,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Umiri Yahata",
@@ -2897,7 +2897,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "FEater",
@@ -2908,7 +2908,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Enforcer",
@@ -2919,7 +2919,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Robin",
@@ -2930,7 +2930,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Frost",
@@ -2941,7 +2941,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Wulfenite",
@@ -2952,7 +2952,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bena",
@@ -2963,7 +2963,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kazemaru",
@@ -2974,7 +2974,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Iana",
@@ -2985,7 +2985,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mutsumi Wakaba",
@@ -2996,7 +2996,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tin Man",
@@ -3007,7 +3007,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tippi",
@@ -3018,7 +3018,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Exusiai",
@@ -3029,7 +3029,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Archetto",
@@ -3040,7 +3040,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ash",
@@ -3051,7 +3051,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Schwarz",
@@ -3062,7 +3062,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pozëmka",
@@ -3073,7 +3073,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Fartooth",
@@ -3084,7 +3084,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lemuen",
@@ -3095,7 +3095,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "W",
@@ -3106,7 +3106,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Fiammetta",
@@ -3117,7 +3117,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rosa",
@@ -3128,7 +3128,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Typhon",
@@ -3139,7 +3139,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Rosmontis",
@@ -3150,7 +3150,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Wiš'adel",
@@ -3161,7 +3161,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ch'en the Holungday",
@@ -3172,7 +3172,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ray",
@@ -3183,7 +3183,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Narantuya",
@@ -3194,7 +3194,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Siege",
@@ -3205,7 +3205,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bagpipe",
@@ -3216,7 +3216,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Saga",
@@ -3227,7 +3227,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vulpisfoglia",
@@ -3238,7 +3238,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Saileach",
@@ -3249,7 +3249,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Flametail",
@@ -3260,7 +3260,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vigil",
@@ -3271,7 +3271,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Muelsyse",
@@ -3282,7 +3282,7 @@
                 "Vanguard",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "SilverAsh the Reignfrost",
@@ -3293,7 +3293,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ines",
@@ -3304,7 +3304,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ifrit",
@@ -3315,7 +3315,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mostima",
@@ -3326,7 +3326,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Eyjafjalla",
@@ -3337,7 +3337,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ceobe",
@@ -3348,7 +3348,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ho'olheyak",
@@ -3359,7 +3359,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Logos",
@@ -3370,7 +3370,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Dusk",
@@ -3381,7 +3381,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Marcille",
@@ -3392,7 +3392,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Passenger",
@@ -3403,7 +3403,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Carnelian",
@@ -3414,7 +3414,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lin",
@@ -3425,7 +3425,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pramanix the Prerita",
@@ -3436,7 +3436,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Goldenglow",
@@ -3447,7 +3447,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lappland the Decadenza",
@@ -3458,7 +3458,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ebenholz",
@@ -3469,7 +3469,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nymph",
@@ -3480,7 +3480,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Blaze the Igniting Spark",
@@ -3491,7 +3491,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mantra",
@@ -3502,7 +3502,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Necrass",
@@ -3513,7 +3513,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gnosis",
@@ -3524,7 +3524,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Angelina",
@@ -3535,7 +3535,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Suzuran",
@@ -3546,7 +3546,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Astgenne the Lightchaser",
@@ -3557,7 +3557,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Magallan",
@@ -3568,7 +3568,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Raidian",
@@ -3579,7 +3579,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Skadi the Corrupting Heart",
@@ -3590,7 +3590,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Civilight Eterna",
@@ -3601,7 +3601,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Silence the Paradigmatic",
@@ -3612,7 +3612,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Haruka",
@@ -3623,7 +3623,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ling",
@@ -3634,7 +3634,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Stainless",
@@ -3645,7 +3645,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nasti",
@@ -3656,7 +3656,7 @@
                 "Supporter",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Virtuosa",
@@ -3667,7 +3667,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Tragodia",
@@ -3678,7 +3678,7 @@
                 "Supporter",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Phantom",
@@ -3689,7 +3689,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Texas the Omertosa",
@@ -3700,7 +3700,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kirin R Yato",
@@ -3711,7 +3711,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Crownslayer",
@@ -3722,7 +3722,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lee",
@@ -3733,7 +3733,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Swire the Elegant Wit",
@@ -3744,7 +3744,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Weedy",
@@ -3755,7 +3755,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Aak",
@@ -3766,7 +3766,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Exusiai the New Covenant",
@@ -3777,7 +3777,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gladiia",
@@ -3788,7 +3788,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mizuki",
@@ -3799,7 +3799,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ascalon",
@@ -3810,7 +3810,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Specter the Unchained",
@@ -3821,7 +3821,7 @@
                 "Specialist",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Dorothy",
@@ -3832,7 +3832,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ela",
@@ -3843,7 +3843,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Wang",
@@ -3854,7 +3854,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Thorns the Lodestar",
@@ -3865,7 +3865,7 @@
                 "Specialist",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Shining",
@@ -3876,7 +3876,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nightingale",
@@ -3887,7 +3887,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Kal'tsit",
@@ -3898,7 +3898,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lumen",
@@ -3909,7 +3909,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Eyjafjalla the Hvít Aska",
@@ -3920,7 +3920,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Reed the Flame Shadow",
@@ -3931,7 +3931,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Titi",
@@ -3942,7 +3942,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mon3tr",
@@ -3953,7 +3953,7 @@
                 "Medic",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hoshiguma",
@@ -3964,7 +3964,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Saria",
@@ -3975,7 +3975,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Blemishine",
@@ -3986,7 +3986,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Shu",
@@ -3997,7 +3997,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nian",
@@ -4008,7 +4008,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mudrock",
@@ -4019,7 +4019,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Penance",
@@ -4030,7 +4030,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Eunectes",
@@ -4041,7 +4041,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Horn",
@@ -4052,7 +4052,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Jessica the Liberated",
@@ -4063,7 +4063,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sankta Miksaparato",
@@ -4074,7 +4074,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Yu",
@@ -4085,7 +4085,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hoshiguma the Breacher",
@@ -4096,7 +4096,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Mountain",
@@ -4107,7 +4107,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Chongyue",
@@ -4118,7 +4118,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Bellone",
@@ -4129,7 +4129,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "SilverAsh",
@@ -4140,7 +4140,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Thorns",
@@ -4151,7 +4151,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Qiubai",
@@ -4162,7 +4162,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Sakiko Togawa",
@@ -4173,7 +4173,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hoederer",
@@ -4184,7 +4184,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ulpianus",
@@ -4195,7 +4195,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pepe",
@@ -4206,7 +4206,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Zima the Raging Tide",
@@ -4217,7 +4217,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ch'en",
@@ -4228,7 +4228,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Irene",
@@ -4239,7 +4239,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Degenbrecher",
@@ -4250,7 +4250,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Blaze",
@@ -4261,7 +4261,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Gavial the Invincible",
@@ -4272,7 +4272,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Surtr",
@@ -4283,7 +4283,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Viviana",
@@ -4294,7 +4294,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Vina Victoria",
@@ -4305,7 +4305,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Ch'en the Dawnstreak",
@@ -4316,7 +4316,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Hellagur",
@@ -4327,7 +4327,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Zuo Le",
@@ -4338,7 +4338,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Pallas",
@@ -4349,7 +4349,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nearl the Radiant Knight",
@@ -4360,7 +4360,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Lessing",
@@ -4371,7 +4371,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Executor the Ex Foedere",
@@ -4382,7 +4382,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Entelechia",
@@ -4393,7 +4393,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Młynar",
@@ -4404,7 +4404,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Leizi the Thunderbringer",
@@ -4415,7 +4415,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Cairn",
@@ -4426,7 +4426,7 @@
                 "Defender",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Savage",
@@ -4437,7 +4437,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Catapult",
@@ -4448,7 +4448,7 @@
                 "Sniper",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Midnight",
@@ -4459,7 +4459,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Beehunter",
@@ -4470,7 +4470,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Jackie",
@@ -4481,7 +4481,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Nightmare",
@@ -4492,7 +4492,7 @@
                 "Caster",
                 "Ranged"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Grani",
@@ -4503,7 +4503,7 @@
                 "Vanguard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         },
         {
             "name": "Skadi",
@@ -4514,7 +4514,7 @@
                 "Guard",
                 "Melee"
             ],
-            "useful": true
+            "progression": true
         }
     ]
 }

@@ -22,6 +22,11 @@ for story in data:
             if "boss" in stage.keys() and stage["boss"] == True:
                 location["victory"] = True
 
+            if "air" in stage.keys():
+                if type(stage["air"]) != int:
+                    print(f"value 'air' of {stage["id"]} is not an integer")
+                location["requires"] = f"|@Ranged:{stage["air"]}|"
+
             locations.append(location)
 
 ic(locations)

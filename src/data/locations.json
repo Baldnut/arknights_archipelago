@@ -14,22 +14,26 @@
         {
             "category": ["Episode 0", "Part 0"],
             "name": "0-3 Clear",
-            "region": "Episode 0 Part 0"
+            "region": "Episode 0 Part 0",
+            "requires": "|@Ranged:1|"
         },
         {
             "category": ["Episode 0", "Part 0"],
             "name": "0-4 Clear",
-            "region": "Episode 0 Part 0"
+            "region": "Episode 0 Part 0",
+            "requires": "|@Ranged:1|"
         },
         {
             "category": ["Episode 0", "Part 0"],
             "name": "0-5 Clear",
-            "region": "Episode 0 Part 0"
+            "region": "Episode 0 Part 0",
+            "requires": "|@Ranged:1|"
         },
         {
             "category": ["Episode 0", "Part 0"],
             "name": "0-6 Clear",
-            "region": "Episode 0 Part 0"
+            "region": "Episode 0 Part 0",
+            "requires": "|@Ranged:1|"
         },
         {
             "category": ["Episode 0", "Part 1"],
@@ -49,7 +53,8 @@
         {
             "category": ["Episode 0", "Part 1"],
             "name": "0-10 Clear",
-            "region": "Episode 0 Part 1"
+            "region": "Episode 0 Part 1",
+            "requires": "|@Ranged:1|"
         },
         {
             "category": ["Episode 0", "Part 1"],
