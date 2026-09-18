@@ -105,5 +105,86 @@
             "Episode 5 Part 3": "|Progressive Episode 5:4|"
         }
     },
-    "Episode 5 Part 3": {}
+    "Episode 5 Part 3": {},
+    "Episode 6 Part 0": {
+        "starting": true,
+        "requires": "|Progressive Episode 6:1|",
+        "connects_to": [
+            "Episode 6 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 6 Part 1": "|Progressive Episode 6:2|"
+        }
+    },
+    "Episode 6 Part 1": {
+        "connects_to": [
+            "Episode 6 Part 2"
+        ],
+        "exit_requires": {
+            "Episode 6 Part 2": "|Progressive Episode 6:3|"
+        }
+    },
+    "Episode 6 Part 2": {
+        "connects_to": [
+            "Episode 6 Part 3"
+        ],
+        "exit_requires": {
+            "Episode 6 Part 3": "|Progressive Episode 6:4|"
+        }
+    },
+    "Episode 6 Part 3": {},
+    "Episode 7 Part 0": {
+        "starting": true,
+        "requires": "|Progressive Episode 7:1|",
+        "connects_to": [
+            "Episode 7 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 7 Part 1": "|Progressive Episode 7:2|"
+        }
+    },
+    "Episode 7 Part 1": {
+        "connects_to": [
+            "Episode 7 Part 2"
+        ],
+        "exit_requires": {
+            "Episode 7 Part 2": "|Progressive Episode 7:3|"
+        }
+    },
+    "Episode 7 Part 2": {
+        "connects_to": [
+            "Episode 7 Part 3"
+        ],
+        "exit_requires": {
+            "Episode 7 Part 3": "|Progressive Episode 7:4|"
+        }
+    },
+    "Episode 7 Part 3": {},
+    "Episode 8 Part 0": {
+        "starting": true,
+        "requires": "|Progressive Episode 8:1|",
+        "connects_to": [
+            "Episode 8 Part 1"
+        ],
+        "exit_requires": {
+            "Episode 8 Part 1": "|Progressive Episode 8:2|"
+        }
+    },
+    "Episode 8 Part 1": {
+        "connects_to": [
+            "Episode 8 Part 2"
+        ],
+        "exit_requires": {
+            "Episode 8 Part 2": "|Progressive Episode 8:3|"
+        }
+    },
+    "Episode 8 Part 3": {},
+    "Episode 8 Part 2": {
+        "connects_to": [
+            "Episode 8 Part 3"
+        ],
+        "exit_requires": {
+            "Episode 8 Part 3": "|Progressive Episode 8:4|"
+        }
+    }
 }

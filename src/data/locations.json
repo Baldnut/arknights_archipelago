@@ -2527,6 +2527,1441 @@
             ],
             "region": "Episode 5 Part 3",
             "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "6-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-5 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-5 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-7 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-7 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-8 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "6-8 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 0"
+            ],
+            "region": "Episode 6 Part 0"
+        },
+        {
+            "name": "TR-16 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1",
+                "Training"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "TR-16 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1",
+                "Training"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-9 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-9 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-10 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-10 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "S6-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "S6-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "S6-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "S6-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-11 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "6-11 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "6-12 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-12 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 1"
+            ],
+            "region": "Episode 6 Part 1"
+        },
+        {
+            "name": "6-14 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "6-14 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "6-15 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "6-15 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "S6-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "S6-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "S6-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "S6-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "6-16 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "6-16 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2"
+            ],
+            "region": "Episode 6 Part 2",
+            "victory": true
+        },
+        {
+            "name": "6-17 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2",
+                "Set Squad"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "6-17 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 2",
+                "Set Squad"
+            ],
+            "region": "Episode 6 Part 2"
+        },
+        {
+            "name": "H6-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "H6-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 6",
+                "Episode 6 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 6 Part 3"
+        },
+        {
+            "name": "7-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "7-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "7-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-5 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-5 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "TR-17 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0",
+                "Training"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "TR-17 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0",
+                "Training"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-6 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-6 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 0"
+            ],
+            "region": "Episode 7 Part 0"
+        },
+        {
+            "name": "7-8 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-8 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-9 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-9 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-10 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-10 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-11 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-11 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-12 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-12 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-13 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-13 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 1"
+            ],
+            "region": "Episode 7 Part 1"
+        },
+        {
+            "name": "7-14 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-14 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-15 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-15 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-16 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-16 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "S7-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "S7-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "S7-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "S7-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-17 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-17 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-18 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2"
+        },
+        {
+            "name": "7-18 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 2"
+            ],
+            "region": "Episode 7 Part 2",
+            "victory": true
+        },
+        {
+            "name": "H7-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "H7-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 7",
+                "Episode 7 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 7 Part 3"
+        },
+        {
+            "name": "R8-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "TR-18 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0",
+                "Training"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "TR-18 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0",
+                "Training"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-5 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-5 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 0"
+            ],
+            "region": "Episode 8 Part 0"
+        },
+        {
+            "name": "R8-6 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "R8-6 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "R8-7 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "R8-7 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "R8-8 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1",
+            "requires": "|@Ranged:3|"
+        },
+        {
+            "name": "R8-8 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1",
+            "requires": "|@Ranged:3|"
+        },
+        {
+            "name": "M8-6 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "M8-6 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "R8-9 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "R8-9 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "M8-7 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "M8-7 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 1"
+            ],
+            "region": "Episode 8 Part 1"
+        },
+        {
+            "name": "R8-10 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "R8-10 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "R8-11 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "R8-11 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "M8-8 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "M8-8 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "JT8-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2",
+                "Set Squad"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "JT8-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2",
+                "Set Squad"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "JT8-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "JT8-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "JT8-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2"
+        },
+        {
+            "name": "JT8-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 2"
+            ],
+            "region": "Episode 8 Part 2",
+            "victory": true
+        },
+        {
+            "name": "H8-1 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3"
+        },
+        {
+            "name": "H8-1 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3"
+        },
+        {
+            "name": "H8-2 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "H8-2 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3",
+            "requires": "|@Ranged:1|"
+        },
+        {
+            "name": "H8-3 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3"
+        },
+        {
+            "name": "H8-3 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3"
+        },
+        {
+            "name": "H8-4 Clear",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3",
+            "requires": "|@Ranged:2|"
+        },
+        {
+            "name": "H8-4 3-Star",
+            "category": [
+                "Stage",
+                "Act 1",
+                "Episode 8",
+                "Episode 8 Part 3",
+                "Hard"
+            ],
+            "region": "Episode 8 Part 3",
+            "requires": "|@Ranged:2|"
         }
     ]
 }
